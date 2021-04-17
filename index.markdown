@@ -3,4 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: This is my first post title
 ---
+
+# This is the index.html file
+
+## This is a second heading
+
+Some more text here
+
