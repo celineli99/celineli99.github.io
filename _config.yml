@@ -69,8 +69,8 @@ menu:
 
 # Changing colours and sidebar images
 accent_image: /assets/img/sidebar.jpg
-accent_color: rgb(135,206,235)
-theme_color: rgb(135,206,235)
+accent_color: rgb(0,191,255)
+theme_color: rgb(0,191,255)
 
 #Adding Email button
 
