@@ -19,20 +19,42 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Celine Li
-email: your-email@example.com
+email: celine.li@gmx.net
 description: >- # this means to ignore newlines until "baseurl:"
  Personal Website for sharing articles and thoughts with the world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "celineli99.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  celineli99
 
 # Build settings
+theme: null
 remote_theme: hydecorp/hydejack@v9.1.4
 plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+
+# Adding a custom _pages/ directory
+include: [_pages]
+# Adding defaults:
+defaults:
+  - 
+    scope: 
+      type: posts
+      path: _posts
+    values:
+      is_post: true
+      layout: post
+  - 
+    scope:
+      type: pages
+      path: _pages
+    values: 
+      is_post: false
+      layout: default # the above defaults are equivalent to specifying manually, in each post, is_post: true and layout: post AND manually for each page "is_post: false and layout: default"
+    
+# Adding permalinks
+permalink: /
 # Adding menu bar
 menu:
   - title: About
@@ -41,11 +63,14 @@ menu:
     url: /resume/
   - title: Blog
     url: /blog/
+  - title: Contact
+    url: /contact/
+
 
 # Changing colours and sidebar images
 accent_image: /assets/img/sidebar.jpg
-accent_color: rgb(255,0,255)
-theme_color: rgb(255,0,255)
+accent_color: rgb(135,206,235)
+theme_color: rgb(135,206,235)
 
 #Adding Email button
 

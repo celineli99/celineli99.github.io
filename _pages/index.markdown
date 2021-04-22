@@ -4,5 +4,10 @@
 
 layout: home
 title: Welcome to my site!
+permalink: /
 ---
+
+# Hello, Jekyll!
+
+This is the index.md file.
 
