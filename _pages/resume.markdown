@@ -2,9 +2,8 @@
 layout: page
 title: Resume
 permalink: /resume/
-pdf_file: "/assets/docs/CV.pdf" 
 ---
 
 Thank you for viewing my resume.
+<embed src="https://celineli99.github.io/assets/docs/CV.pdf" width="100%" height="1000"/>
 
-{% pdf {{ page.pdf_file }} width=100% height=1000px %}
