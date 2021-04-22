@@ -32,6 +32,7 @@ remote_theme: hydecorp/hydejack@v9.1.4
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-pdf-embed
 
 
 # Adding a custom _pages/ directory
@@ -54,7 +55,7 @@ defaults:
       layout: default # the above defaults are equivalent to specifying manually, in each post, is_post: true and layout: post AND manually for each page "is_post: false and layout: default"
     
 # Adding permalinks
-permalink: /
+permalink: /:year/:title.html
 # Adding menu bar
 menu:
   - title: About

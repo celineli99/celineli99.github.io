@@ -1,10 +1,8 @@
 ---
-title: "PPE Finals at Oxford"
-date: "2020-07-28"
-categories: 
-  - "life"
-  - "university"
-coverImage: "img_8360.jpg"
+layout: post
+title: PPE Finals at Oxford
+date: 2020-07-28
+categories: university
 ---
 
 Table of Contents:

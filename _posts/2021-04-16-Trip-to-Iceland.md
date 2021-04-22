@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Iceland Trip 2021
+title: Trip to Iceland
 date: 2021-04-16
-
+categories: travel
+image:
+    path: /assets/img/travel-pics/2021_favcanyon.jpg
 ---
-
-# Iceland Trip 2021
 
 After finishing my internship at the ifo Economic Research Institute in Munich, I made the decision to travel to Iceland. This idea didn't come out of nowhere: I had thought about going to Iceland since the beginning of the year, since an old school friend is doing his semester abroad there. But it wasn't until I had the brainspace to plan such a trip that I made the final call. 
 
@@ -31,7 +31,7 @@ Of course, it is not an obvious time to travel during a global pandemic. This is
 
 3. **Other risks associated with being in Iceland**
 
-    Before I went to Iceland, there have been multiple earthquakes going on in Iceland, more than usual. This made people somewhat worried. However, since Iceland is so volcanically active, it is a risk that one *always* has when travellin to the country. 
+    Before I went to Iceland, there have been multiple earthquakes going on in Iceland, more than usual. This made people somewhat worried. However, since Iceland is so volcanically active, it is a risk that one *always* has when travelling to the country. 
 
 ### Necessary preparations for Iceland
 
@@ -69,6 +69,13 @@ As we were driving the road up to the peninsula, I was soaking up everything fro
 
 They say that you can see a lot of Iceland on that peninsula, because it has a lot of great sights to offer: Waterfalls, interesting rock and cliff formations, glaciers...
 
+![cliff](../assets/img/travel-pics/2021_cliff.JPG)
+
+![picfynn](../assets/img/travel-pics/2021_picfynnwaterfall.jpg)
+
+![glacier lagoon](../assets/img/travel-pics/2021_waterfall.jpg)
+
+
 ### Volcano Trip
 
 After the Northern trip, we decided to continue down south. But of course we couldn't miss THE number one attraction within Iceland at that time: The volcano Fagradalsfjall that erupted on the Reykjanes peninsula, just south of Reykjavik.
@@ -89,15 +96,25 @@ As we went there in the early days of the eruption, the valley was not yet compl
 
 After our visit to the volcano, we went further down South. We rented an Airbnb near the town of Kirkjubaejarklaustur (yes it took me 10 times to get an idea of how to pronounce this name). We stayed there for three nights, just by the edge of a lava field from an eruption many years ago. It was peaceful and quiet, and on my first night there, I was able to witness my first northern lights!
 
+![northern lights](../assets/img/travel-pics/2021_northernlights.jpg)
+
 I have to say though, they looked much less impressive in real life compared to the pictures. They are a bit like faint clouds, coloured in green, and sometimes it was hard to distinguish them from actual clouds.
 
 We had two full days in the South. On the first day, the weather was incredible: sunny, no clouds, even warm for Icelandic standards! Though we were kind of exhausted from the previous day's volcano tour, we decided to use the great weather and drive to the West to one of South Iceland's most famous sights: The Glacier Lagoon and Diamond Beach.
+
+![glacier lagoon](../assets/img/travel-pics/2021_glacierlagoon.jpg)
+
+![diamond beach](../assets/img/travel-pics/2021_diamondbeach.jpg)
 
 The Glacier Lagoon developed as a glacial lake after the Breiðamerkurjökull glacier started retreating. It is filled with ice rocks that float over the lake, making it quite a beautiful and serene sight. The diamond beach nearby (a 10 minute walk towards the ocean) is a black sand beach that got its name from the many pieces of glacier ice that are washed unto the shore. Shining in the sunlight, they are like many pieces of diamonds on a black surface. As pleasing to the eye as these sights are, it is a tragedy that their expansion is due climate change - and after a few years, there might be no glacier left in this area anymore. 
 
 On our way back from the Glacier Lagoon, we encountered a hidden gem, the Mulagljufur Canyon. It was actually quite a coincidence, since I was just googling sights on the way back which we could have a look at. I am so glad I came across this canyon on a random travel blog! It was really tugged away, and we had to walk for roughly one and a half hours to get there. There were no clear navigation signs and no prepared path, but some sticks that indicated we were on the right trail. At the end, we were rewarded with an amazing sight:
 
-It is not as famous as another canyon in the area, the Fjaðrárgljúfur Canyon, but 
+![canyon](../assets/img/travel-pics/2021_topworld.jpg)
+
+We went to another famous canyon, the Fjaðrárgljúfur Canyon, which I found still beautiful but not as rewarding as the one that was more tugged away. It just felt like more of an adventure to discover it!. Fjaðrárgljúfur Canyon is very accessible by car and has ready-built viewing platforms.
+
+![canyon](../assets/img/travel-pics/2021_canyon.jpg)
 
 ### Reykjavik Area
 

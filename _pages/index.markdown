@@ -7,7 +7,6 @@ title: Welcome to my site!
 permalink: /
 ---
 
-# Hello, Jekyll!
+This is my **brandnew** personal website. I have created it using Github Pages and Jekyll.
 
-This is the index.md file.
-
+Happy Browsing!

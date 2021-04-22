@@ -1,7 +1,10 @@
 ---
-title: "Oxford During the Pandemic (in pictures)"
-date: "2020-03-29"
+layout: post
+title: Oxford during the pandemic
+date: 2020-03-29
+categories: university
 ---
+
 
 The COVID-19 pandemic is having far-reaching consequences, as we are all aware. One of the most visible ones are the empty cities and towns, which usually would be filled with residents, tourists and shoppers.
 

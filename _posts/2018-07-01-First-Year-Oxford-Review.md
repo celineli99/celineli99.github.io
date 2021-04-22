@@ -1,8 +1,11 @@
 ---
-title: "First Year at Oxford - A Review"
-date: "2018-07-01"
-categories: 
-  - "university"
+layout: post
+title: First Year at Oxford - A Review
+date: 2018-07-01
+categories: university
+image:
+    path: /assets/img/ocean.jpg
+
 ---
 
 A lot has happened during the past, which I have unfortunately not documented on this blog. Having now finished my first year, I would like to highlight a couple of experiences and thoughts that have stuck with me over this time. What are up-, what are downsides of studying at Oxford University? What changes did I have to make in order to account for those? To give this post a bit of structure, I will focus on a couple of areas that are particularly of importance to me: The Work, the Activities, the People, and the Self. I hope this categorization will tidy things a bit up in this messy world of thoughts that the past year has left on me.
