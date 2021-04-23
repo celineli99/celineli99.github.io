@@ -123,7 +123,7 @@ All of this was emotionally quite upsetting for me. I was anxious of what would 
 
 In the end, I made the decision to stay here. This has multiple reasons: For one, I know that there is little to no chance I will return to Oxford soon except for collecting stuff, or potentially my graduation ceremony. But I am emotionally still tied to this place, and want to have a proper "closure of a chapter", instead of hurrily packing up my stuff and leaving. Another reason to stay is just the practicality with regards to exams: If we do have exams as scheduled, then I want to be here to study for them, and to sit them, otherwise I will have close to zero motivation to do them at home at my desk...
 
-I think I am very privileged and lucky to be able to stay in Oxford for the time being. It is actually quite a nice place, even if the shops are closed and the streets are empty (perhaps even more so because the streets are not crowded with tourists!). I made a separate post with pictures about "empty Oxford" **[here](https://celineliblog.wordpress.com/2020/03/29/oxford-during-the-pandemic-in-pictures/)**. The best thing I can do now is to stay positive, stick to a routine, and to accord to guidelines of distancing and hygiene. If I do that, then everything should be fine.
+I think I am very privileged and lucky to be able to stay in Oxford for the time being. It is actually quite a nice place, even if the shops are closed and the streets are empty (perhaps even more so because the streets are not crowded with tourists!). I made a separate post with pictures about "empty Oxford". The best thing I can do now is to stay positive, stick to a routine, and to accord to guidelines of distancing and hygiene. If I do that, then everything should be fine.
 
 I am far more worried about the wider repercussions this will have on society, economies, people's livelihoods, emotional and physical well-being... but there has been much written on these topics here, and I won't speculate about the long-term consequences of the pandemic now.
 
@@ -218,23 +218,21 @@ Most importantly however, I am _so_ grateful to have been able to spend my last 
 
 I lived with 4 good friends of mine together in our college accommodation, and we cheered each other up and support each other during Finals. Living with friends from university during lockdown is something that many other students did not have, which is why I feel so lucky. We cooked together, baked bread, and played boardgames. When everything in the world seemed to have gone to shit, I could always cling unto our little "social bubble".
 
-Here are some pictures from our time together, with which I associate so many good memories:
+Whether it be picknicking at Port Meadows with the ponys, going on a road trip to the Cotswolds or being trashed after Finals, I associate many good memories with that time:
 
-- ![](https://celineliblog.files.wordpress.com/2020/07/img_8418.jpg?w=683)
+![port meadows](../assets/img/2020/IMG_8304.JPG)
     
-- ![](https://celineliblog.files.wordpress.com/2020/07/img_8529.jpg?w=1024)
+![cotswolds](../assets/img/2020/IMG_9411.JPG)
     
-- ![](https://celineliblog.files.wordpress.com/2020/07/img_9045.jpg?w=1024)
+![trashing](../assets/img/2020/IMG_8507.JPG)
     
-
-Some Memories: Easter Brunch, Trashing and Trip to the Oxford Arboretum
 
 The results of my exams came as a pleasant surprise to me. I thought I had done well, or at least gave it my best shot. But of course there is always a lot of variance in the grades, depending on the marker etc. So I was really pleased to see that by a tight margin, I managed to obtain a First! I am super happy that the hard work and effort I put in over the 5 months prior have been reflected in the grade as well. Of course another grade would have changed very little about the things that I have learnt in Oxford. But it is nevertheless a very nice end to our journey.
+
+Since our graduation ceremony was canceled, we just did our own graduation photoshoot:
+
+![trashing](../assets/img/2020/IMG_8846.JPG)
 
 Despite the many disruptions, I feel that the pandemic actually had positive effects on our Finals experience. Of course, we missed out on a lot of things - like our graduation ceremony, the big parties and balls in the end, and generally enjoying summer in Oxford with everyone - but I feel that in our social bubble we have been able to re-create most of those. In a way, my expectations of the end of my studies fundamentally changed: From big parties and celebrations with students and tutors, they changed to a sad and anti-climactic ending in one's own bedroom. In reality, living with and celebrating with my friends exceeded the latter expectation by far. It will never be the same as under usual circumstances of course, but given that this year almost nothing takes place, I cannot complain.
 
 Thank you to each and everyone who has accompanied me on this journey, whether it be throughout the whole three years or just a small part of it. I look back with warm feelings and nostalgia already. Now I am excited what the future brings!
-
-![](https://celineliblog.files.wordpress.com/2020/07/img_8702.jpg?w=1024)
-
-No graduation ceremony, so we decided to do our own graduation shoot! Background: All Souls College

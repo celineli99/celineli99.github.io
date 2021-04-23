@@ -3,6 +3,8 @@ layout: post
 title: The Triumph of State Capitalism
 date: 2020-07-14
 categories: essay
+image:
+    path: /assets/img/2020/wiwo.jpg
 ---
 
 
