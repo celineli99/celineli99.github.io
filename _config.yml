@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-pdf-embed
+  - jekyll-avatar
 
 
 # Adding a custom _pages/ directory
@@ -73,8 +74,15 @@ accent_image: /assets/img/sidebar.jpg
 accent_color: rgb(0,191,255)
 theme_color: rgb(0,191,255)
 
-#Adding Email button
-
+#Adding Author information
+author: 
+  name: Celine Li
+  picture:
+    path: /assets/img/avatar.jpg
+  social:
+    github: celineli99
+    linkedin: https://www.linkedin.com/in/celineli99/
+    email: mailto:celine.li@gmx.net
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

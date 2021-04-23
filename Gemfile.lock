@@ -271,6 +271,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-avatar
   jekyll-feed (~> 0.12)
   jekyll-include-cache
   jekyll-pdf-embed
