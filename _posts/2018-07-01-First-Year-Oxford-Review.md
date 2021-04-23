@@ -10,7 +10,12 @@ image:
 
 A lot has happened during the past, which I have unfortunately not documented on this blog. Having now finished my first year, I would like to highlight a couple of experiences and thoughts that have stuck with me over this time. What are up-, what are downsides of studying at Oxford University? What changes did I have to make in order to account for those? To give this post a bit of structure, I will focus on a couple of areas that are particularly of importance to me: The Work, the Activities, the People, and the Self. I hope this categorization will tidy things a bit up in this messy world of thoughts that the past year has left on me.
 
-First things first, a brief overview over the first year: Academic years in Oxford are split into three 8-week terms, called Michaelmas (the autumn/winter term), Hilary (the spring term) and Trinity (the summer term). Between these terms we have 6 weeks of vacation. Whilst being a time of rest and enjoyment, they also exist for catching up with the work that one did not have time to do during term-time and to prepare for exams at the start of each term (called “collections”). As a fresher studying Philosophy, Politics and Economics (PPE), I have a three-year course with Preliminary Examinations at the end of my first and finals at the end of my third year. Moreover, there are roughly 40 different colleges within the university itself, each providing academic teaching, accommodation, food and other services for students. Though I have not yet met anyone who was not content with their college, experiences in different colleges can vary a great deal, which is why everything I write here should not be taken as a representative account.
+First things first, a brief overview over the first year: Academic years in Oxford are split into three 8-week terms, called Michaelmas (the autumn/winter term), Hilary (the spring term) and Trinity (the summer term). Between these terms we have 6 weeks of vacation. Whilst being a time of rest and enjoyment, they also exist for catching up with the work that one did not have time to do during term-time and to prepare for exams at the start of each term (called “collections”). 
+
+As a fresher studying Philosophy, Politics and Economics (PPE), I have a three-year course with Preliminary Examinations at the end of my first and finals at the end of my third year. Moreover, there are roughly 40 different colleges within the university itself, each providing academic teaching, accommodation, food and other services for students. Though I have not yet met anyone who was not content with their college, experiences in different colleges can vary a great deal, which is why everything I write here should not be taken as a representative account.
+
+![corpus](../assets/img/2018/DSC_0939.JPG)
+*The quad of my college, Corpus Christi College, one of around 40 colleges in Oxford.*
 
 ### The Work
 
@@ -19,6 +24,10 @@ There is no need to hide it: The workload in Oxford is quite intense. This is no
 While it is of course tough to have so many assignments but so little time, it was not the actual amount of work that annoyed me. Rather, I have found it to be very frustrating at times to write one Philosophy essay every week, because I would feel as if I am doing it very superficially. Because one is forced to skimread articles and produce results at a fast pace, the quality necessarily has to suffer sometimes. And this, I think, does not do the subject nor the topic (which is mostly quite interesting) justice. One week certainly cannot be an adequate time length to philosophize about the compatible existence of God and evil in the world?
 
 The shortage of time, combined with the wish to meet with friends, pursue other non-academic activities and of course wanting to maintain a healthy lifestyle has definitely not made things very easy for us. However, given those external constraint, one can really surprise oneself with how much is possible. It is here that I was able to learn how to become more efficient with my time. Using tools like time-blocking and Pomodoro timers, I was able to force myself into certain periods of productivity. So the stress gave rise to something useful after all.
+
+![corpus library](../assets/img/2018/IMG_3367.JPG)
+*The Corpus library, where I spent much of my time*
+
 
 ### The Activities
 
@@ -30,9 +39,9 @@ I remember when, during the summer before I went to Oxford, someone asked me wha
 
 As a PPE group in our college we are quite close and help each other out in times of difficulties, which has made the rough essay and exam weeks somewhat bearable. We shared essays with each other, compared assignments and held group sessions for revisions. They are a great group of people, and I am very lucky to call them my friends. That's us after the last exam in Trinity term, getting "trashed" with foam, glitter, and other stuff:
 
-![DSC_0933 (Large)](images/dsc_0933-large.jpg)
+![trashing pic](../assets/img/2018/DS_0933.JPG)
 
-There are also some individuals – not too many, but certainly some – which have left a particularly long-lasting impression on me. What has impressed me so much is that every time we speak, I come out of the conversation with many new thoughts, about things that are of such great importance to _life_, but which I have not spend much time thinking on. (these issues are mostly philosophical) I am also baffled by the sheer amount of knowledge some people have, and always often feel inferior, giving me the urge to read more and widely.
+There are also some individuals – not too many, but certainly some – which have left a particularly long-lasting impression on me. What has impressed me so much is that every time we speak, I come out of the conversation with many new thoughts, about things that are of such great importance to _life_, but which I have not spend much time thinking on (these issues are mostly philosophical). I am also baffled by the sheer amount of knowledge some people have, and always often feel inferior, giving me the urge to read more and widely.
 
 I think that when I go out of Oxford, it is not going to be the long hours of working in the library that I will remember, but rather, it is the people that I was able to share great moments with. Connecting with people in Oxford is not very easy I would say, because everyone is very much busy with their own world and own issues, sadly often leading to only superficial friendships or acquaintances. But going further than that is always SO worth it and rewarding, and spending that time to really get to know a person better. I am incredibly glad that I get to have this with some people in and outside of my college.
 
@@ -44,4 +53,4 @@ Oxford really makes you think about things. Not only about academic issues (phil
 
 Overall, I have enjoyed my first year in Oxford very much, and could not wish for another experience. But it would be dishonest to say that it is all sunshine and fairytales. Perhaps it is because of those no-so-great moments that I feel like the year has brought me so much and closer to myself. As the cliché quote goes: “what does not kill you makes you stronger” – you make mistakes, you learn, you pick yourself up and move forward, it is all a gigantic learning curve.
 
-I consider myself to be very lucky to be able to make these experiences. And I wish to thank everyone who has made it possible for me, accompanying me on this way. Let’s discover more of this crazy world together.
+I consider myself to be very lucky to be able to make these experiences. And I wish to thank everyone who has made it possible for me, accompanying me on this way.
