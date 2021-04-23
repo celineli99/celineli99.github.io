@@ -4,7 +4,7 @@ title: First Year at Oxford - A Review
 date: 2018-07-01
 categories: university
 image:
-    path: /assets/img/ocean.jpg
+    path: /assets/img/2017/DSC_0285.JPG
 
 ---
 
