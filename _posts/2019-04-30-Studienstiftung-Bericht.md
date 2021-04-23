@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Aufnahme in die Studienstiftung - Erfahrungsbericht
+title: German post:Aufnahme in die Studienstiftung - Ein Erfahrungsbericht
 date: 2019-04-30
 categories: university
+image: 
+    path: /assets/img/2019/stusti.jpg
 ---
 
 Ich hatte das große Glück und Privileg, in meinem Studium teilweise durch die Studienstiftung des deutschen Volkes (kurz: Studienstiftung) gefördert zu werden. Meine erfolgreiche Bewerbung wäre ohne die großzügige Unterstützung von Freunden und Mentoren nicht möglich gewesen. Was mir bei meiner Vorbereitung am meisten geholfen hat, waren persönliche Erfahrungsberichte, da diese mir einen guten und authentischen Einblick vermittelten. Meinen persönlichen Erfahrungsbericht möchte ich hiermit aufschreiben, in der Hoffnung, dass er zukünftigen Bewerberinnen und Bewerbern helfen kann. Ich werde auf folgende Punkte eingehen: Ein genereller Überblick über die Studienstiftung und ihre Förderung; der Bewerbungs- und Aufnahmeprozess; meine eigene Erfahrung von einer gescheiterten ersten Bewerbung und einer erfolgreichen zweiten, sowie Lehren daraus.

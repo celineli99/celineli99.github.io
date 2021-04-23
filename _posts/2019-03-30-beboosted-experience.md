@@ -2,7 +2,9 @@
 layout: post
 title: be.boosted fellowship programme
 date: 2019-03-30
-categories: 
+categories: university
+image:
+    path: /assets/img/2019/bblogo.jpg
 ---
 
 After the first year at university, my start into the second was a bit uneasy. I felt unsure where I wanted to go (academically and otherwise), what I wanted to get out of the  whole "university experience", but at the same time I still had the chronic desire to do it all. It was a mid-degree low for me, and at the centre of my confusion stood the question of which activity I wanted to spend my freetime with. Ideally, it should be stimulating, fun and challenging without being too stressful - but with all those societies and clubs to engage with, people to meet and things to learn and read, how was I ever supposed to pick the "right" thing?
@@ -17,7 +19,7 @@ It sounded too good to me: I had enjoyed learning about rhetorics, public speaki
 
 ## Offline I - Meeting all the fellows
 
-![IMG_3556.JPG](images/IMG_3556.jpg)
+![offline 1](../assets/img/2019/IMG_3561.JPG)
 
 The 14 participants in the fellowship this year are coming from very diverse backgrounds, and cover a wide variety of different subjects, from medicine over engineering and computer science to economics. We also range quite significantly in age: I am the youngest participant with age 19, while others already have finished their master’s degree and are working on their PhDs now.
 
@@ -29,6 +31,8 @@ The second day was filled with input and exercises about using voice and body la
 
 Our trainers have had much experience with standing in front of a large audience and giving persuasive speeches (coming from debating backgrounds or working as vocal coaches) and were able to communicate the content very well to us. Every time after we had finished an exercise, there would be a round of feedback – from the trainers to the participant but also from fellow to fellow. I realized how invaluable personalized feedback can be: It would highlight the things that I was doing well (e.g. structuring speeches) and then point out areas in which I could improve more (e.g. calming down during speaking and reducing speed). Going through these small exercises really helped to internalize those things and made us conscious about many non-verbal factors relevant to giving good speeches.
 
+![offline 1](../assets/img/2019/IMG_3699.JPG)
+
 On the last day, we got introduced to our first debate in the format of Model United Nations (more on Model United Nations Conference below, under the "London International MUN" heading). Every participant represented one country and we debated on the topic of “Integrating people with disabilities into society”. During the debate, each ‘delegate’ tries to represent their country’s views and bring forward their interests, which they can do through numerous speeches, negotiation and voting. We first had to get used to the various rules of procedure of MUN, but that soon wasn't an issue anymore, which allowed us to focus on the substance of the debate.
 
 ## Offline II - "Keep growing: negotiate"
@@ -39,13 +43,14 @@ We got introduced into different styles of negotiation - Harvard style and "Neve
 
 I remember that at this point, I was already anticipating the coming MUN conferences, and was slightly anxious about it. I felt excited for what was about to come, though I knew that it would most likely to be a very intense and at times also stressful experience (and I would be correct). But luckily, I was not alone in this - Rather, I had a bunch of really amazing and supportive people around me, who provided feedback, advice and hugs whenever I needed them.
 
-\[caption id="attachment\_1032" align="alignnone" width="5184"\]![IMG_4252.JPG](images/img_4252.jpg) Together with fellows, trainers and alumni at the second offline weekend.\[/caption\]
+![offline 2](../assets/img/2019/IMG_4252.JPG)
+
 
 ## Offline III - It's all about the group
 
 Just 4 weeks later we met again, but this time in Germany's South, in Munich. We were joined by Team London, who will be joining our delegation for the London International Model United Nations conference in February, just two weeks after the third and final offline weekend.
 
-![IMG_4519](images/img_4519.jpg)
+![offline 3](../assets/img/2019/IMG_4519.JPG)
 
 This weekend was not easy for me to make time-wise, as it fell in the midst of my Oxford term, when things start to get busy and work started piling up. I felt like I needed to prepare well for the weekend and get ahead with my work so that I would not fall behind when taking the weekend off. Luckily, that worked out fine and I got to experience an amazing weekend with wonderful people. I was even positively surprised how such an intense 2 day seminar can actually make you leave with more energy than before, instead of making you feel drained.
 
@@ -53,7 +58,7 @@ Especially valuable during the weekend was the experience sharing by alumni - wh
 
 As with every Offline weekend, we also had our MUN Mock debate on the Sunday. This time in a larger committee, together with those fellows who made it into the LIMUN fellowship (more on that below). The topic was "Sustainable Growth" and I was representing the Republic of Turkey. It was great fun to debate in a larger committee group, and to engage with a ready draft resolution by using amendments to modify it and make it more suitable to one's country interests.
 
-![IMG_4360](images/img_4360.jpg)
+![offline 3](../assets/img/2019/IMG_4360.JPG)
 
 * * *
 
@@ -61,7 +66,9 @@ As with every Offline weekend, we also had our MUN Mock debate on the Sunday. Th
 
 On the weekend of the 22nd to 24th February we were finally there: The be.boosted delegation of 2019 would go to an international Model UN conference and apply what we had learnt over the past weeks and months in those many online calls and three offline weekends...
 
-\[caption id="attachment\_1041" align="alignnone" width="5184"\]![IMG_4664.JPG](images/img_4664.jpg) The sun was shining at the beginning of the conference, just like us!\[/caption\]
+London greeted us with beautiful weather and sunshine:
+
+![LIMUN group pic](../assets/img/2019/IMG_4664.JPG)
 
 _**What we did:**_ The whole conference lasted from Friday evening to Sunday afternoon. If you have no idea what MUN is (many of us certainly had never heard of it, let alone done it before coming to LIMUN): It is basically a simulation of various committees which you would find in the actual United Nations, too (there were some exceptions, such as Crisis committees, or a fun committee where delegates represented superheroes). Usually, each delegate represents a country in a committee, and one has to find ways to enhance one's own interests, while also gathering other states' support through forming alliances and the such. I was representing Japan in the Social and Humanitarian Committee (SOCHUM) and our topic was "Ensuring basic rights of expression, assembly and associtation for LGBTQ+ people". During that short, but intense period of time from Friday to Sunday we held debates, had discussions, negotiations, writing sessions for working papers and draft resolutions, amendments for draft resolutions, and finally, we voted for a draft resolution.
 
@@ -73,7 +80,9 @@ But this completely changed when we got to the full day on Saturday. As debate p
 
 One moment that stood out particularly for me was this: After a while, two main blocs had formed, and for various reasons, we moved back to the General Speaker's list - where one of my allies, Turkey, was in a top position. What she did then was amazing: She passed me a note, saying that she would like to yield her speaking time to me. I was impressed and honoured - what a kind and strategic move! With that heads-up, I had a couple of speeches time to prepare for what I wanted to say... she then stood up when it was her turn, and yielded her complete speaking time to me! It was such a rewarding moment - after the work that we had done together, seeing the trust that she has put in me really warmed my heart :)
 
-\[caption id="attachment\_1042" align="alignnone" width="5184"\]![IMG_4761](images/img_4761.jpg) Not to miss at any MUN experiences are the socials - at LIMUN this was a fancy Black Tie Ball.\[/caption\]
+The cherry on top were the socials, which included a black tie ball in a fancy location:
+
+![limun ball](../assets/img/2019/IMG_4761.JPG)
 
 #### _**What I learnt - Three main take-aways**_
 
@@ -83,7 +92,7 @@ One moment that stood out particularly for me was this: After a while, two main 
 
 **Pushing through is so worth it.** Conference days are long, and after the first few sessions, we all got pretty tired. But in the end, it really paid off to continue being proactive and a driving force in the committee. I found that people really seemed to appreciate the work that I was doing, and that they also _wanted_ to work with me. I learnt that even when things do not go my way, keeping up that damn placard will eventually still pay off :)
 
-![IMG_4913](images/img_4913.jpg)
+![Limun end](../assets/img/2019/IMG_4913.JPG)
 
 Finally, all the work that we had put in even got rewarded, in the form of LIMUN's diplomacy awards. Those are given out by the chairs of each committee, to delegates which they deemed to be excelling at their jobs. Our delegation, being a large one with over 22 delegates, won the "Best Large Delegation Award". This has been an encouraing external recognition, because it means that the values that we stand for, of inclusive and responsible leadership, are echoed in the wider MUN community.
 
@@ -95,17 +104,17 @@ So only two and a half weeks later following LIMUN, it was finally time for...
 
 ## Second conference: HARVARD WORLD MODEL UNITED NATIONS in Madrid
 
-\[caption id="attachment\_media-52" align="alignnone" width="5184"\]![IMG_5099.JPG](images/img_5099.jpg) The Royal Palace in Madrid.\[/caption\]
+![royal palace madrid](../assets/img/2019/IMG_5099.JPG)
 
 The climax to the fellowship, and also marking its end has been Harvard WorldMUN in Madrid - one of the largest international MUN conferences attracting more than 2,000 delegates from over 110 different countries and taking place in a different city each year. With its prestigious status, it is also known as the "Olympics of Model United Nations".
 
 We all arrived a day or two earlier, to settle into the city, enjoy the warm weather (20+ degrees and sunshine) and to recharge our batteries before the start of the conference. After an opening ceremony featuring the King of Spain and some dance and music performances, the conference finally began!
 
-\[caption id="attachment\_1047" align="alignnone" width="5184"\]![IMG_5141](images/img_5141.jpg) Happy faces in front of the conference venue - anticipation for what was about to come!\[/caption\]
+![worldmun group](../assets/img/2019/IMG_5141.JPG)
 
 First, some remarks about how WorldMUN works: Most committees are with double delegations, which means that a country is represented by two delegates, together as a team. My double delegate (DD) and I represented Kenya in the UN Human Rights Council (UNHRC), in which the topic this year was "Climate Change Induced Migration". I consider this topic to be hugely important and interesting, and was very eager to debate it in the committee. As of now, there is no legally agreed term for "environmental refugees" in international human rights law, and so migrants who flee because of environmental degradation of their homes or natural disasters are not officially recognized as refugees. Questions we addressed in committee therefore included: What should be a working definition of environmental migrants, if any? Which rights and vulnerabilities do these migrants have? What responsibilities does the international community have and which measures should they employ to protect those rights?
 
-\[caption id="attachment\_1048" align="alignnone" width="5184"\]![IMG_5193](images/img_5193.jpg) In front of the committee room with my lovely double delegate Dominic.\[/caption\]
+![committee](../assets/img/2019/IMG_5197.JPG)
 
 Due to the nature of double delegates, the way the committee normally works is that one delegate is "inside", doing debates, moderated cauci etc., while the other one is "outside", doing most of the negotiation with other countries, preparing working papers and draft resolutions etc. Often times, it is not very clear to the in- or outside delegate what their respective partner is doing right now, which posed an additional challenge to the already very demanding comittee experience.
 
@@ -113,7 +122,7 @@ On the very first day, my DD and I learned just _how_ important effective commun
 
 Another thing I learnt from this conference, which is also very valuable for real-life settings, is one about resilience: At the conference, there were often situations which were quite challenging, either because they involved long hours of concentration and negotiation, or even direct or indirect confrontation with other delegates. In these cases, it is easy to get frustrated or annoyed, and only natural to not want to engage with that situation aymore, i.e. to withdraw from it. However, I learnt that pushing through those moments, still standing up for one’s position and values is very worthwhile – and that it will pay off multifold in the end, because people will recognize the consistent work and effort that you have put in.
 
-\[caption id="attachment\_media-65" align="alignnone" width="5184"\]![IMG_5212.JPG](images/img_5212.jpg) Group picture with some people and the chair at the end of the conference - these guys truly made my week!\[/caption\]
+![committee pic](../assets/img/2019/IMG_5212.JPG)
 
 I am truly grateful for all the wonderful people I got to meet at this conference. Since it was such a large international one, it attracted many people from all corners of the world – In my committee alone, I collaborated closely with Pakistani, Australian, French and Venezuelian delegates. Getting to know them as well as their backgrounds and cultures has been a truly enrichening and rewarding experience. Moreover, when some of them came to us after the conference ended and said that they really enjoyed working with us and that it has been a great experience for them, I felt truly moved and could not have asked for a better reward.
 
@@ -121,7 +130,7 @@ I am truly grateful for all the wonderful people I got to meet at this conferenc
 
 In essence, this whole experience of WorldMUN and _be.boosted_ more broadly has been a lesson. I have found no better way of expressing this in a similar fashion as my dear friend (and fellow) Magda:
 
-- A lesson, that sticking to values of inclusion, respect and diversity never contradicts assuming a leadership role - they go hand in hand. _Em_powering others, rather than trying to _over_power them is a much more fruitful and sustainable way of leadership.
+- A lesson, that sticking to values of inclusion, respect and diversity never contradicts assuming a leadership role - they go hand in hand. *Em*powering others, rather than trying to *over*power them is a much more fruitful and sustainable way of leadership.
 - A lesson, that authentic leadership means taking responsibility and acting responsibly. It doesn't mean doing everything alone. Seeking advice from others is useful and crucial.
 - Finally, a lesson, that whenever people from different backgrounds and cultures come together, **great things happen!**
 
@@ -129,4 +138,4 @@ I have hugely benefitted from being pushed out of my comfort zone with this amaz
 
 To all those who have an affiliation to Germany of some sort, I can only encourage you to apply for the next generation of be.boosted fellows!
 
-\[caption id="attachment\_1049" align="alignnone" width="5184"\]![IMG_5249](images/img_5249.jpg) So grateful to have met this awesome bunch of people and to grow together as a group! Can't wait to see how you will shape the world :)\[/caption\]
+![committee pic](../assets/img/2019/IMG_5249.JPG)
