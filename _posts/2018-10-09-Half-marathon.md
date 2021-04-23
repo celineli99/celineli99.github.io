@@ -3,6 +3,8 @@ layout: post
 title: Runnning a Half Marathon
 date: 2018-10-09
 categories: university
+image:
+    path: /assets/img/2018/oxfordhalf.jpg
 ---
 
 If someone had told me 4 months ago that I would ever be running a half marathon, I would probably have taken it as a joke. 21k or 13.1 miles just seemed like an impossible distance to me to run in one distance. Yet here I am, few days after the Oxford Half on 7th Oct, with sore legs but a great feeling of accomplishment.
@@ -30,5 +32,3 @@ Having trained mostly on a treadmill or in empty fields and forests, it was a co
 **Ready, Set, Go!**
 
 If you are thinking about running longer distances, whether it be 10k, a half or a full marathon, I highly recommend you go for it! Find yourself a friend or two to do it with you, it makes the whole experience definitely more fun and enjoyable. I have certainly benefitted from this experience, not only in physical fitness but also in a certain sense in personal growth. It has shown me how willpower, persistence and (training routines) can go a very long way – even to reaching a goal that once seemed impossible.
-
-![43350225_323435191594506_6769111287356981248_n](images/43350225_323435191594506_6769111287356981248_n.jpg)
