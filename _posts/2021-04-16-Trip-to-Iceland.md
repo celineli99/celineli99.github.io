@@ -4,7 +4,7 @@ title: Trip to Iceland
 date: 2021-04-16
 categories: travel
 image:
-    path: /assets/img/travel-pics/2021_favcanyon.jpg
+    path: /assets/img/2021/2021_favcanyon.jpg
 ---
 
 After finishing my internship at the ifo Economic Research Institute in Munich, I made the decision to travel to Iceland. This idea didn't come out of nowhere: I had thought about going to Iceland since the beginning of the year, since an old school friend is doing his semester abroad there. But it wasn't until I had the brainspace to plan such a trip that I made the final call. 
@@ -57,7 +57,7 @@ How to "best" travel Iceland? Personally, I like flexibility when travelling a c
 
 But because I came in March, some of the roads were still inaccessible due to the weather and I wasn't feeling comfortable to be on my own for such a long time.
 
-In the end, I had a nice mix of travelling with smaller groups of friends, staying in the capital area and doing day trips from there. I mainly stuck to the South West of Iceland. 
+In the end, I had a nice mix of travelling with smaller groups of friends, staying in the capital area and doing day trips from there. I mainly stuck to the South West of Iceland. Though I would have loved to go to the Westfjords and Eastfjords, the weather conditions in March just didn't allow this. All the more reason to go again next time!
 
 ## Itinerary
 
@@ -69,11 +69,11 @@ As we were driving the road up to the peninsula, I was soaking up everything fro
 
 They say that you can see a lot of Iceland on that peninsula, because it has a lot of great sights to offer: Waterfalls, interesting rock and cliff formations, glaciers...
 
-![cliff](../assets/img/travel-pics/2021_cliff.JPG)
+![cliff](../assets/img/2021/2021_cliff.JPG)
 
-![picfynn](../assets/img/travel-pics/2021_picfynnwaterfall.jpg)
+![picfynn](../assets/img/2021/2021_picfynnwaterfall.jpg)
 
-![glacier lagoon](../assets/img/travel-pics/2021_waterfall.jpg)
+![glacier lagoon](../assets/img/2021/2021_waterfall.jpg)
 
 
 ### Volcano Trip
@@ -88,35 +88,46 @@ We were lucky. On the day we planned to go down South, the weather conditions we
 
 In order to get to the volcano, one has to drive to a town called Grindavik, park somewhere along the road there and then hike up the mountains for roughly one hour. It was a manageable hike, flat at first and then with a steep bit at the end. There were a lot of people around: Couples, families with dogs, elderly people with Nordic Walking sticks... It seemed the entire Icelandic population made a day trip to visit the volcano!
 
+![hike to volcano](../assets/img/2021/2021_hiketovolcano.jpg)
+
 Being near it, seeing how the lava bubbles and flows down into the valley was an incredible sight. It was almost "too" perfect: It honestly looked like from a children's book! Like a cone with the tip missing, and from the top of the cone there would be bubbling lava coming out. This is how I always imagined a volcano to look like. 
 
+![volcano view](../assets/img/2021/2021_volcano.jpg)
+
+![volcano view](../assets/img/2021/2021_volcano1.jpg)
+
 As we went there in the early days of the eruption, the valley was not yet completely filled with lava. This meant that it was possible to get really close to the volcano, so close you could feel the heat from the lava. And if you weren't careful, you could even burn yourself. Of course, we maintained a safe distance and eventually settled to have our lunch break at a sweet spot with an amazing view. 
+
+![volcano view](../assets/img/2021/2021_viewvolcano.jpg)
+
 
 ### South Iceland
 
 After our visit to the volcano, we went further down South. We rented an Airbnb near the town of Kirkjubaejarklaustur (yes it took me 10 times to get an idea of how to pronounce this name). We stayed there for three nights, just by the edge of a lava field from an eruption many years ago. It was peaceful and quiet, and on my first night there, I was able to witness my first northern lights!
 
-![northern lights](../assets/img/travel-pics/2021_northernlights.jpg)
+![northern lights](../assets/img/2021/2021_northernlights.jpg)
 
 I have to say though, they looked much less impressive in real life compared to the pictures. They are a bit like faint clouds, coloured in green, and sometimes it was hard to distinguish them from actual clouds.
 
 We had two full days in the South. On the first day, the weather was incredible: sunny, no clouds, even warm for Icelandic standards! Though we were kind of exhausted from the previous day's volcano tour, we decided to use the great weather and drive to the West to one of South Iceland's most famous sights: The Glacier Lagoon and Diamond Beach.
 
-![glacier lagoon](../assets/img/travel-pics/2021_glacierlagoon.jpg)
+![glacier lagoon](../assets/img/2021/2021_glacierlagoon.jpg)
 
-![diamond beach](../assets/img/travel-pics/2021_diamondbeach.jpg)
+![diamond beach](../assets/img/2021/2021_diamondbeach.jpg)
 
 The Glacier Lagoon developed as a glacial lake after the Breiðamerkurjökull glacier started retreating. It is filled with ice rocks that float over the lake, making it quite a beautiful and serene sight. The diamond beach nearby (a 10 minute walk towards the ocean) is a black sand beach that got its name from the many pieces of glacier ice that are washed unto the shore. Shining in the sunlight, they are like many pieces of diamonds on a black surface. As pleasing to the eye as these sights are, it is a tragedy that their expansion is due climate change - and after a few years, there might be no glacier left in this area anymore. 
 
 On our way back from the Glacier Lagoon, we encountered a hidden gem, the Mulagljufur Canyon. It was actually quite a coincidence, since I was just googling sights on the way back which we could have a look at. I am so glad I came across this canyon on a random travel blog! It was really tugged away, and we had to walk for roughly one and a half hours to get there. There were no clear navigation signs and no prepared path, but some sticks that indicated we were on the right trail. At the end, we were rewarded with an amazing sight:
 
-![canyon](../assets/img/travel-pics/2021_topworld.jpg)
+![canyon](../assets/img/2021/2021_topworld.jpg)
 
 We went to another famous canyon, the Fjaðrárgljúfur Canyon, which I found still beautiful but not as rewarding as the one that was more tugged away. It just felt like more of an adventure to discover it!. Fjaðrárgljúfur Canyon is very accessible by car and has ready-built viewing platforms.
 
-![canyon](../assets/img/travel-pics/2021_canyon.jpg)
+![canyon](../assets/img/2021/2021_canyon.jpg)
 
 ### Reykjavik Area
+
+![reykjavik](../assets/img/2021/IMG_1691.JPG)
 
 Being in Reykjavik was great after some more intense travelling in the South. I am grateful to my friend who allowed me to stay in their student housing. And honestly, it felt at times a bit like I was a student again. There was a common room kitchen, where people from the floor would hang out with each other, chat and even have parties (wow what a life we had pre-pandemic). Since it was the "international" dorm, I'd meet people from different places, including US, Australia, Taiwan, France ... It was just like in my university days again! Made me really miss the student life.
 
@@ -124,11 +135,17 @@ What was also really nice is that I could tag along in my friend's German friend
 
 ### The Golden Circle
 
+![road golden circle](../assets/img/2021/IMG_1739.JPG)
+
 When looking up "Things to do in Iceland", the Golden Circle was always the first thing that popped up on every tourist guide website. However, I didn't really get what the Golden Circle *was*. Was it some form of crater, which looks like a golden circle?
 
 In fact, the Golden Circle is a collection of many sights. It is called "Golden Circle", because it is possible to visit these sights in one loop from the capital, and it is doable within a day. On that route, one can visit the Thingvellir National Park, Gullfoss Waterfall, Geysirs, a Crater and many other sights.
 
-Me and my friend did the Golden Circle almost at the very end of my stay in Iceland. We rented a car, which gave us lots of flexibility and time to stay at the places that we liked, and skip the ones that we didn't want to go.
+![gullfoss](../assets/img/2021/IMG_1809.JPG)
+
+![geysir](../assets/img/2021/IMG_1802.JPG)
+
+My friend and I did the Golden Circle almost at the very end of my stay in Iceland. We rented a car, which gave us lots of flexibility and time to stay at the places that we liked, and skip the ones that we didn't want to go.
 
 Maybe I was spoilt from my travels in Iceland prior to doing the Golden Circle, but the sights didn't exactly blew me away. Don't get me wrong: It was still incredibly impressive! But I think what contributed to this is that the whole infrastructure at Golden Circle sights is very clearly made to accommodate a lot of tourists in a short period of time. By that I mean, there are huge parking lots literally next to the sights, so that one only has to walk 2 minutes from the car door to one of the most amazing waterfalls. There would be wooden paths and reilings, souvenir shops and cafés. In sum: It is very *easy* to visit the sights. 
 
@@ -138,11 +155,16 @@ Therefore, in hindsight I would say that my favourite sight from the Golden Circ
 
 The river was really hot hot hot, just like in a whirlpool. There weren't changing cabins, just small walls behind which one could change into bathing gear. Sitting in the river, we were were feeling warm, but at the same time surrounded by snow. This reminded me again of Iceland's name of "land of fire and ice" and how true this is. Surprisingly, when coming out of the water and getting changed into my hiking clothes again, I wasn't feeling very cold due to the rest warmth on my body. 
 
+![hot river](../assets/img/2021/IMG_1859.JPG)
+
 ### The Westman Islands (Heimaey)
 
 For my last full outdoor day in Iceland, my friend and I with some of his housemates went to another island! Namely, to Heimaey, the largest island of the Westman Islands, just south of Iceland. Taking a ferry for about 40 minutes to get there, we found ourselves on a small island with just 5,000 habitants.
 
 In 1973, there was a volcano eruption that changed many of Heimaey's locals' lives forever. It erupted in the middle of the night, and lasted many months. The volcano, Eldfell is its name, covered many houses into meter-deep layers of ash. Luckily though, no one was injured or died from the eruption as all could be evacuated in time.
+
+![heimaey](../assets/img/2021/IMG_1889.JPG)
+
 
 The museum we visited there, which documented the volcano eruption was one of the best I've been to. It had an audio guide with excellent storytelling, interactive exhibitions, high-tech equipment...
 
@@ -150,4 +172,13 @@ We also hiked up the volcano and were able to see almost the entire island in on
 
 The islanders have an interesting activity, that kids usually do for fun, called "Sprangan". It basically consists in using a rope, that is hanging down a cliff, and jumping off the wall, trying not to hurt yourself. We tried it out and it was great fun!
 
+![sprangan](../assets/img/2021/IMG_1945.JPG)
+
+
 ## Concluding Thoughts
+
+Overall, I enjoyed the trip very much and am glad that everything went as planned. I got very lucky that Iceland, at this point during the pandemic, is still allowing visitors and that I could afford to spend 5 days in quarantine. And of course, that I was able to witness a volcano explosion live! What a lucky coincidence.
+
+Furthermore, I am glad that I just decided to "do it". Too often in life, things do not happen because we think we should wait for the "perfect moment" to come. But this moment might never come -- we are responsible for taking the initiative ourselves and making things happen. That is why at the beginning of the year, I set myself a motto to literally "just do it" when I felt that there was an idea or project in my head.
+
+What made this trip also so enjoyable is that I knew someone living/studying in Iceland. This made it a lot more authentic: He had much more knowledge about the conditions there and since my friend also had a friendship circle there, I was integrated very smoothly into their activities. Apart from the stunning landscapes, hanging out with lovely people was what I enjoyed the most!
