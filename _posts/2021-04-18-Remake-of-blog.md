@@ -6,17 +6,38 @@ date: 2021-04-18
 DRAFT
 
 
-I started using Wordpress when setting up my personal blog back in summer 2017. But increasingly, I wanted a change. This is why I moved to another solution, a personal website built via a static site generator and hosted with Github Pages. In this post, I want to explain in very simply and non-techy terms how I set up this new personal website and why I chose to do so. This is mainly for my personal reference so I don't forget what I've learnt.
+I started using Wordpress when setting up my personal blog back in summer 2017. But increasingly, I wanted a change. This is why I moved to another solution, a personal website built via a static site generator and hosted with Github Pages. In this post, I want to explain in very simple and non-techy terms how I set up this new personal website and why I chose to do so. This is mainly for my personal reference, so I don't forget what I've learnt.
 
 ## The Big Picture
 
 It's always good to begin with the end in mind. What is my goal? What am I trying to achieve with my website? And how "techy" do I want to go? 
 
-## Introduction to Static Site Generators
+My website should be my bundled web presence. That is, a place to share information for the outside world. It should be:
+- minimalistic
+- inexpensive
+- content-focused
+
+To be completely honest, Wordpress.com is still able to do most of what I want. Based on the WYSIWYG (What you see is what you get) principle, design of the website is relatively straightforward. But what I found increasingly annoying about Wordpress after some time was the "bloatedness" of the whole platform. There were a lot of features I never used and one could only write posts online. I prefered having an offline version of my posts first, before publishing them live. 
+
+On the technical side of things, since I am not a web developer, I prefer using a solution that I can easily handle myself. I am okay with spending some time on the set-up of the site, if after that the maintenance costs are very low.
+
+## The Solution: Github Pages and SSG
+
+There seems to be a spectrum of:
+High degree of technical complexity +  very flexible and customizable vs. low degree of technical complexity ("drag and drop", WYSIWYG) + inflexible and pre-made designs.
+
+While Wordpress is on the latter part of the spectrum, I wanted to move further to the former. 
+
+I considered Ghost, an open source blogging platform which claims to be a "fast, modern WordPress alternative". But it seemed rather expensive and at its core not *that* much different to Wordpress.
+
+In the end, I settled for the free and flexible solution of building my site with the static site generator Jekyll and hosting it via Github Pages.
+
+
+### Introduction to Static Site Generators
 
 Jekyll is an open source static site generator. What is a static site generator, or SSG for short? Let's first look at the "site generator" part of it. In simple terms, an SSG is just like a function. It takes input (markdown files as content, templates) and generates output (html files, ready-to-show web pages). These html files can then be uploaded to a serve and be viewed in a browser.
 
-The "static" part means that there is no database behind the content. Whereas Wordpress manages content in a database and retrieves the relevant piece of content when it is requested, the SSG generates html pages in advance in a build process. A SSG, as the name suggests, obviously only works for static sites. Dynamic sites on the other hand are in a constant state of change (think Twitter, Youtube etc.). Therefore, for dynamic sites a database is necessary because the displayed content always changes.
+The "static" part means that there is no database behind the content. Whereas Wordpress manages content in a database and retrieves the relevant piece of content when it is requested, the SSG generates html pages in advance in a build process. A SSG, as the name suggests, only works for static sites. Dynamic sites on the other hand are in a constant state of change (think Twitter, Youtube etc.). Therefore, for dynamic sites a database is necessary because the displayed content always changes.
 
 For a personal website however, where the content rarely changes and only when I choose to upload something new, a SSG is a good choice. This is then what happens:
 
@@ -24,7 +45,7 @@ For a personal website however, where the content rarely changes and only when I
 2. I take the static site created by SSG and deploy it to the server
 3. When a user requests a page, the server finds the matching file and send it to the user, who sees it displayed in their browser
 
-### Benefits of SSG
+#### Benefits of SSG
 
 1. Reducing site complexity: SSGs
 2. No need to manage databases and therefore higher security
@@ -32,11 +53,11 @@ For a personal website however, where the content rarely changes and only when I
 
 One disadvantage of SSG is that it requires a few more technical skills. After all, tools like Wordpress are so great because they are so user-friendly and operate according to "What you see is what you get". You just drag and drop your components of your website. This is not the case for SSG. 
 
-### Types of SSG
+#### Types of SSG
 
 There are many different SSG out there, due to their growing popularity over the last couple of years. Jekyll, Gatsby, Hugo, Eleventy ... you name it! 
 
-## How does Jekyll work?
+### How does Jekyll work?
 
 I chose Jekyll because it has good documentation and is tightly integrated with Github Pages, where I was planning to host my website.
 
@@ -49,11 +70,12 @@ bundle exec jekyll serve
 Jekyll has built-in support for Github Pages.
 
 
-
-## Github Pages
+### Github Pages
 
 Github Pages is a hosting service for static sites. It takes the files from a github repository and publishes a website. In some sense, it is just acting as a web server. The great thing about it: It's free! The site with a github.io domain is automatically generated by Github Pages when pushing the source files. In concrete terms, this means: I write a new blog post, like this one, commit to the Github repository that is being used to host my website and then the website will be automatically built to publish the new article. Like magic!
 
 #### Themes in Github Pages
 
 This is where it gets *creative*. 
+
+I wanted a theme with a visible side/navigation bar. I considered Poole and Hyde, but both of them were a little too plain for me. 
