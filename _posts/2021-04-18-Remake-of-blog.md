@@ -5,6 +5,7 @@ date: 2021-04-18
 ---
 DRAFT
 
+
 I started using Wordpress when setting up my personal blog back in summer 2017. But increasingly, I wanted a change. This is why I moved to another solution, a personal website built via a static site generator and hosted with Github Pages. In this post, I want to explain in very simply and non-techy terms how I set up this new personal website and why I chose to do so. This is mainly for my personal reference so I don't forget what I've learnt.
 
 ## The Big Picture
