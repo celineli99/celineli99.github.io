@@ -275,6 +275,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-include-cache
   jekyll-pdf-embed
+  jekyll-relative-links
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

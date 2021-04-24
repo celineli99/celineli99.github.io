@@ -34,6 +34,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-pdf-embed
   - jekyll-avatar
+  - jekyll-relative-links
 
 
 # Adding a custom _pages/ directory

@@ -26,6 +26,7 @@ In summer 2019, I had the chance to be close to the Alpians mountains, by stayin
 
 ![val fedoz](../assets/img/2019/IMG_7440.JPG)
 *View on the Val Fedoz from Muott' Ota*
+
 ## South Tyrol (Olang)
 
 ![pragser wildsee](../assets/img/2019/IMG_7515.JPG)

@@ -14,9 +14,9 @@ Table of Contents:
 
 ## Overview
 
-This post is about my experience of sitting my PPE (Philosophy, Politics, Economics) Finals exams at Oxford in 2020. Originally, I intended it to become a piece for anyone who is interested or who will be sitting Finals themselves in the future to read. This is still the case, however, because of the pandemic and its impacts on our exams it is of course not very representative as an account of Oxford Finals in PPE. The post thus also incorporates some personal reflections about this time.
+This post is about my experience of sitting my PPE (Philosophy, Politics, Economics) Finals exams at Oxford in 2020. Originally, I intended it to become a piece for anyone who is interested or who will be sitting Finals themselves in the future to read. This is still the case, however, because of the [pandemic](/2020/Oxford-pandemic-pictures.html) and its impacts on our exams it is of course not very representative as an account of Oxford Finals in PPE. The post thus also incorporates some personal reflections about this time.
 
-I first give a general account of what those Finals exams are all about and why they matter. What follows is a "month-by-month" journal - here I wrote down at the end of each month what I did for revision and also what happened because of Corona from March onwards. I wrote those just as I was doing my preparation, so is a snapshot of my impression and experience _at that time_. Finally, I conclude with some general reflections about that time, what is has taught me.
+I first give a general account of what those Finals exams are all about and why they matter. What follows is a "month-by-month" journal. Here, I wrote down at the end of each month what I did for revision and also what happened because of Corona from March onwards. I wrote those just as I was doing my preparation, so is a snapshot of my impression and experience _at that time_. Finally, I conclude with some general reflections about that time, what is has taught me.
 
 ## What are Finals exams?
 
