@@ -2,17 +2,19 @@
 layout: post
 title: Goodbye Wordpress - Hello Jekyll!
 date: 2021-04-18
+categories: 
+    - web dev
+    - personal
 ---
-DRAFT
 
 
-I started using Wordpress when setting up my personal blog back in summer 2017. But increasingly, I wanted a change. This is why I moved to another solution, a personal website built via a static site generator and hosted with Github Pages. In this post, I want to explain in very simple and non-techy terms how I set up this new personal website and why I chose to do so. This is mainly for my personal reference, so I don't forget what I've learnt.
+I started using Wordpress when setting up my personal blog back in summer 2017. But increasingly, I wanted a change. This is why I moved to another solution, a personal website built via a static site generator and hosted with Github Pages. In this post, I want to explain in very simple and non-techy terms how I set up this new personal website and why I chose to do so. I mainly do this for personal reference, so I don't forget what I learnt in the process, but it may be also of interest to some readers.
 
 ## The Big Picture
 
 It's always good to begin with the end in mind. What is my goal? What am I trying to achieve with my website? And how "techy" do I want to go? 
 
-My website should be my bundled web presence. That is, a place to share information for the outside world. It should be:
+My website should be my bundled web presence. That is, a place for me to share thoughts and information with the outside world. It should be:
 - minimalistic
 - inexpensive
 - content-focused
@@ -24,7 +26,7 @@ On the technical side of things, since I am not a web developer, I prefer using 
 ## The Solution: Github Pages and SSG
 
 There seems to be a spectrum of:
-High degree of technical complexity +  very flexible and customizable vs. low degree of technical complexity ("drag and drop", WYSIWYG) + inflexible and pre-made designs.
+High degree of technical complexity + very flexible and customizable **vs.** low degree of technical complexity ("drag and drop", WYSIWYG) + inflexible and pre-made designs.
 
 While Wordpress is on the latter part of the spectrum, I wanted to move further to the former. 
 
@@ -47,11 +49,11 @@ For a personal website however, where the content rarely changes and only when I
 
 #### Benefits of SSG
 
-1. Reducing site complexity: SSGs
+1. Reducing site complexity
 2. No need to manage databases and therefore higher security
 3. Low to no cost for support and maintenance
 
-One disadvantage of SSG is that it requires a few more technical skills. After all, tools like Wordpress are so great because they are so user-friendly and operate according to "What you see is what you get". You just drag and drop your components of your website. This is not the case for SSG. 
+One disadvantage of SSG is that it requires a few more technical skills. After all, tools like Wordpress are so great because they are so user-friendly and effortless to use. You just drag and drop your components of your website. This is not the case for SSG. 
 
 #### Types of SSG
 
@@ -79,3 +81,29 @@ Github Pages is a hosting service for static sites. It takes the files from a gi
 This is where it gets *creative*. 
 
 I wanted a theme with a visible side/navigation bar. I considered Poole and Hyde, but both of them were a little too plain for me. 
+
+[Hydejack](https://hydejack.com/) is a theme that fulfils the side bar requirement AND looks elegant on top of that. It also has a decent manual for beginners. To get the theme running, I installed the theme via bundler by adding the respective gem to my gemfile and by setting the remote-theme to "hydecorp/hydejack". 
+
+**How I customized the Hydejack theme to my needs:**
+
+Starting off, I did the following:
+- spent time to understand the jekyll folder structure, that posts are saved in the _posts folder, that the config.yml file is the central file for settings and that I needed to create _pages and assets folders for my other data 
+- edited the config.yml file with my custom information
+- created menu bar for "About", "Blog" and "Resume" Pages
+
+The next step was to add the content and to prettify the site. For this, I :
+- migrated old posts from Wordpress to the new site, individually went through each post to make sure the images were displaying and the links were working
+- set up the blog post to display in a list format all posts sorted by year
+- added an embedded resume pdf
+- added social media icon links
+- added new sidebar image
+
+### Buying a domain and linking to Github Pages
+
+The final step was to use a custom domain instead of the github domain "celineli99.github.io". I went over to namecheap.com, selected the one I liked (luckily celineli.com was still free) and linked it to my github address as per [this tutorial](https://dev.to/pauljwil/connect-github-pages-to-your-namecheap-domain-4gjj). Voilà!
+
+---
+
+That was, in simple terms, the process of how I set up this website. Overall, I am happy with the result and with what I learnt. Of course, there is much more I could do but I am already satisfied with the current set-up. So I think I will use this as a starting point for the future, and make smaller adjustments along the way as needed.
+
+If you have any tips, improvement suggestions or other feedback please let me know! Thank you for reading!

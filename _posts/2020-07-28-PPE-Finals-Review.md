@@ -3,6 +3,8 @@ layout: post
 title: PPE Finals at Oxford
 date: 2020-07-28
 categories: university
+image:
+    path: /assets/img/2020/IMG_8639.JPG
 ---
 
 Table of Contents:
