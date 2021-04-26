@@ -84,6 +84,8 @@ author:
     email: mailto:celine.li@gmx.net
 
 #Changing favicon
+favicon: /assets/img/android-chrome-192x192.png
+apple_touch_icon: /assets/img/apple-touch-icon.png
 
     
 # Exclude from processing.
