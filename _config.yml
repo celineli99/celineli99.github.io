@@ -68,6 +68,10 @@ menu:
     url: /blog/
 
 
+# Enabling Google Analytics
+google_analytics: G-XZ2JB1W4P5
+
+
 # Changing colours and sidebar images
 accent_image: /assets/img/sidebar.jpg
 accent_color: rgb(0,191,255)
