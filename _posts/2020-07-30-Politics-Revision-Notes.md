@@ -60,5 +60,22 @@ Topic: [Justice toward Future Generations](https://celineli99.github.io/assets/d
 
 
 
+## Some Revision and Exam Tips
+
+Below are some tips and strategies that I found quite helpful when exams were approaching:
+- **For revision**: 
+    - Don't burn out too early by reading 5 new articles every day or writing the 3rd practice essay in one afternoon. _Pace yourself_, you will need the energy. It is a marathon, not a sprint!
+    - Focus on _quality_, not quantity. Before moving to timed essays, practice writing _really good_ essays in the word limit of 1000 words or whatever you think you can realistically write in the limited amount of time during the exam. This will ensure you write high-quality essays, rather than not-well-thought out essays
+    - Work toward a consolidated position on each topic. This will make it easier to argue convincingly for a thesis in the actual exam.
+
+- **For the exam**:
+    - Literally every examiners' report says that "weaker candidates failed to tailor their response to the exact essay prompt" -- Don't be that person.
+    - Take a deep breath before you open the exam script. Whatever will come, you will be able to manage! No need to panic.
+    - Plan your essay before you begin to write. You should spend 5-10 minutes on this. Make sure you have a coherent argument and you know what you want to say before you start writing your introduction. This is to prevent a rambly essay that you think of on the fly.
+    - Be strict with timing. If you have three hours for three essays, then that means that one hour should be spent on each essay. Avoid spending too much time on the first essay and neglecting the two other ones. Each essay carries the same weight in the final mark.
+
+Good luck!
+
+Any more questions? Feel free to reach out to me!
 
 
