@@ -71,7 +71,6 @@ menu:
 # Enabling Google Analytics
 google_analytics: UA-195470612-1
 
-
 # Changing colours and sidebar images
 accent_image: /assets/img/sidebar.jpg
 accent_color: rgb(0,191,255)
