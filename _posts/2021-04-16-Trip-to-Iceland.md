@@ -117,11 +117,11 @@ We had two full days in the South. On the first day, the weather was incredible:
 
 The Glacier Lagoon developed as a glacial lake after the Breiðamerkurjökull glacier started retreating. It is filled with ice rocks that float over the lake, making it quite a beautiful and serene sight. The diamond beach nearby (a 10 minute walk towards the ocean) is a black sand beach that got its name from the many pieces of glacier ice that are washed unto the shore. Shining in the sunlight, they are like many pieces of diamonds on a black surface. As pleasing to the eye as these sights are, it is a tragedy that their expansion is due climate change - and after a few years, there might be no glacier left in this area anymore. 
 
-On our way back from the Glacier Lagoon, we encountered a hidden gem, the Mulagljufur Canyon. It was actually quite a coincidence, since I was just googling sights on the way back which we could have a look at. I am so glad I came across this canyon on a random travel blog! It was really tugged away, and we had to walk for roughly one and a half hours to get there. There were no clear navigation signs and no prepared path, but some sticks that indicated we were on the right trail. At the end, we were rewarded with an amazing sight:
+On our way back from the Glacier Lagoon, we encountered a hidden gem, the Mulagljufur Canyon. It was actually quite a coincidence, since I was just googling sights on the way back which we could have a look at. I am so glad I came across this canyon on a random travel blog! It was really tucked away, and we had to walk for roughly one and a half hours to get there. There were no clear navigation signs and no prepared path, but some sticks that indicated we were on the right trail. At the end, we were rewarded with an amazing sight:
 
 ![canyon](../assets/img/2021/2021_topworld.jpg)
 
-We went to another famous canyon, the Fjaðrárgljúfur Canyon, which I found still beautiful but not as rewarding as the one that was more tugged away. It just felt like more of an adventure to discover it!. Fjaðrárgljúfur Canyon is very accessible by car and has ready-built viewing platforms.
+We went to another famous canyon, the Fjaðrárgljúfur Canyon, which I found still beautiful but not as rewarding as the one that was more tucked away. It just felt like more of an adventure to discover it!. Fjaðrárgljúfur Canyon is very accessible by car and has ready-built viewing platforms.
 
 ![canyon](../assets/img/2021/2021_canyon.jpg)
 
