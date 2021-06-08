@@ -14,7 +14,7 @@ With a Chinese cultural background, I grew up in Germany and speak both German a
 
 ## Me Now
 
-I am currently based in Munich, Germany. I took a gap year after graduation to do two internships, one in a China-consultancy and another in an economic research institute.
+I am currently based in Singapore. I took a gap year after graduation to do two internships, one at Sinolytics, a China-specialized consultancy firm based in Berlin and another in the ifo economic research institute in Munich. Now I am working on a freelance basis for said China-specialized consultancy as well as for the GIZ China.
 
-Right now, I spend my time self-studying (web development, Chinese history and language) and spending time with my two little nieces. I am also trying out a lot of new cooking recipes!
+I plan to study a year in China at Sichuan university from September 2021 onwards.
 
