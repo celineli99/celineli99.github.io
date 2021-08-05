@@ -8,9 +8,9 @@ image:
 
 ---
 
-After graduating from Oxford in summer 2020, I took a year out from university and academic life. I deliberately did not go down the "easy" route of just continuing with a Master's. Instead, I decided to pursue internships, to get an idea of potential work sectors in the future, do some travelling (as much as the pandemic permitted) and reflect on my future path.
+After graduating from Oxford in summer 2020, I took a year out from university and academic life. I chose not to follow the "path of least resistance" and do a Master's degree. Instead, I decided to pursue internships, to get an idea of potential work sectors in the future, do some travelling (as much as the pandemic permitted) and reflect on my future path.
 
-My motivation and willingness to do this gap year had already formed throughout my studies. It was around the middle of my second year that I knew I wanted to explore something else before continuing with my studies. It was a very "gut-feel" decision (by that I mean that my gut told me it was right), but it also made sense to me: Since I started my Bachelor's at the age of 17, I graduated when I was 20, which is younger compared to many of my peers. This meant that I had the luxury of taking the time to explore what I really wanted. I feel lucky and privileged to be in that position and wanted to use this chance to the fullest.
+My motivation and willingness to do this gap year had already formed throughout my studies. It was around the middle of my second year that I knew I wanted to explore something else before continuing with my studies. It was a very "gut-feel" decision (by that I mean that my gut told me it was right), but it also made sense to me: Since I started my Bachelor's at the age of 17, I graduated when I was 20. This meant that I had the luxury of taking the time to explore what I really wanted. I feel lucky and privileged to be in that position and wanted to use this chance to the fullest.
 
 ## Overview: What Happened?
 
@@ -74,7 +74,7 @@ With my work experiences in the bag, I am now better equipped to work in climate
 
  While it would be exaggerated to say that I am now perfectly set on my future path, I do think that the diversity of locations, sectors and topics that I engaged with in the past year has really opened my eyes to the many, many things that are still out there in this world. On the one hand, this of course makes my decisions harder, as I fall prey to the paradox of choice. But it also is a blessing, since I don't think I could have learnt all this if I hadn't taken a year out for exploration.
 
- Regarding my further studies, I am still intending to pursue an Economics Master with some focus on sustainability, so this hasn't changed to much. But I am now more keen on developing my methodological skills more (hard skills?) and working on cross-disciplinary topics.
+ Regarding my further studies, I am still intending to pursue an Economics Master with some focus on sustainability, so this hasn't changed too much. But I am now more keen on developing my methodological skills more (hard skills?) and working on cross-disciplinary topics. I also realized that the skills certain jobs require are not necessarily taught in university, but you rather pick them up on the go. So in that sense, my view on the "necessity" of formal education also changed a bit.
 
  Having said that, if the last year has taught me anything, it is that we have to remain flexible and adaptable. You never know if there isn't a global pandemic around the corner that can torpede your plans.
 
