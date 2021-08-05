@@ -12,7 +12,7 @@ After graduating from Oxford in summer 2020, I took a year out from university a
 
 My motivation and willingness to do this gap year had already formed throughout my studies. It was around the middle of my second year that I knew I wanted to explore something else before continuing with my studies. It was a very "gut-feel" decision (by that I mean that my gut told me it was right), but it also made sense to me: Since I started my Bachelor's at the age of 17, I graduated when I was 20. This meant that I had the luxury of taking the time to explore what I really wanted. I feel lucky and privileged to be in that position and wanted to use this chance to the fullest.
 
-## Overview: What Happened?
+## Overview: What Happened? ##
 
 A short account of what happened from July 2020 (end of my studies at Oxford) to August 2021 (now):
 
@@ -25,7 +25,7 @@ A short account of what happened from July 2020 (end of my studies at Oxford) to
 - May - Aug '21: Went to visit Zhenghong in Singapore, first quarantined for [3 weeks in a hotel](/2021/Three-Weeks-of-Quarantine.html), before being reunited with Zhenghong and exploring Singapore, started freelance consultant work for GIZ China
  - Aug '21 onwards: preparing for a new chapter ...
 
- ### What did I learn about the world?
+### What did I learn about the world?
 
 When working in the China consultancy sector, I learnt a great deal about a wide range of **policies and trends in China**: the Corporate Social Credit System, dual carbon targets, the policymaking process and drafting of Five-Year-Plans, free trade zones, trade relations with ASEAN countries, the semiconductor industry, cybersecurity, phase-out of subsidies for SOEs...
 
@@ -43,8 +43,7 @@ I learnt much about the **art of cooking**. I tried out many new recipes and thr
 
 I saw and enjoyed the **beauty of nature**. Going to Iceland and visiting Singapore allowed me to experience completely different climates than at home. One being always cold, one always hot and tropical, I learnt about the individual characteristics of the region. In Iceland, I learnt about geothermal energy, volcano eruptions, 
 
-
- ### What did I learn about myself?
+### What did I learn about myself?
 
  I learnt that I want to leverage my **competitive advantages** for important and impactful problems. For me, this topic area has become the China-Climate or China-Sustainability Nexus more broadly. I know that my language skills are valued and want to use these for contributing my share to the global climate challenge. It is important to me to do something that not everyone can do, or easily learn to do. 
 
@@ -60,7 +59,8 @@ I saw and enjoyed the **beauty of nature**. Going to Iceland and visiting Singap
 
  I learnt to **trust my gut** more. This meant listening to my intuition and doing what feels *right* and *good* to myself, not what some supposedly rational arguments tell me is. This was the case with the entire gap year, going on my trip to Iceland and also deciding for what I should do next, in lieu of my China year.
 
- ### Where do I stand now?
+
+**Where do I stand now?**
 
  Compared to a year ago, I am now richer in knowledge, beautiful photographs, friendships and contacts. 
 
@@ -68,7 +68,8 @@ With my work experiences in the bag, I am now better equipped to work in climate
 
  At the time of writing, I am approaching the end of my summer in Singapore, which also marks the end of my gap year 2020/21. For the time afterwards, I am holding a scholarship offer for conducting an internship at the United Nations Environment Programme in Geneva, which I am planning to do from September 2021 until March 2022. 
 
- ### Where do I want to go next?
+
+**Where do I want to go next?**
 
  I started this gap year thinking that after this year, I would have a better clue about what it is that I want to study and pursue as a career. 
 
