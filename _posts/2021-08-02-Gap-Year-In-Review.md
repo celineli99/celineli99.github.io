@@ -41,7 +41,7 @@ Living with my brothers' family taught me many lessons for what it means, on a d
 
 I learnt much about the **art of cooking**. I tried out many new recipes and through a lot of practice, learnt that the real art is not to follow recipes step-by-step, but be able to adapt and deviate from them as appropriate. I started to compose meals in the first place based on their macros (protein-carbs-fats-fibre), rather than their ingredients.
 
-I saw and enjoyed the **beauty of nature**. Going to Iceland and visiting Singapore allowed me to experience completely different climates than at home. One being always cold, one always hot and tropical, I learnt about the individual characteristics of the region. In Iceland, I learnt about geothermal energy, volcano eruptions, 
+I saw and enjoyed the **beauty of nature**. Going to Iceland and visiting Singapore allowed me to experience completely different climates than at home. One being always cold, one always hot and tropical, I learnt about the individual characteristics of the region. In Iceland, I learnt about geothermal energy, volcano eruptions, polar lights and how mass tourism can ruin natural heritage sites.
 
 ### What did I learn about myself?
 
