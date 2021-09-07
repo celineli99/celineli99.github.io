@@ -6,7 +6,8 @@ layout: home
 title: Welcome to my site!
 permalink: /
 ---
+Welcome to my personal website. Here I share thoughts, articles and travel posts on an irregular basis.
 
-This is my **brandnew** personal website. I have created it using Github Pages and Jekyll, using the theme [hydejack](https://hydejack.com/).
+I created this website using Github Pages and Jekyll, using the theme [hydejack](https://hydejack.com/).
 
 Happy Browsing!
