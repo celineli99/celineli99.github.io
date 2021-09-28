@@ -14,7 +14,7 @@ With a Chinese cultural background, I grew up in Germany and speak both German a
 
 ## Me Now
 
-I am currently based in Singapore. I took a gap year after graduation to do two internships, one at Sinolytics, a China-specialized consultancy firm based in Berlin and another in the ifo economic research institute in Munich. Now I am working on a freelance basis for said China-specialized consultancy as well as for the project Sino-German Energy Partnership under the GIZ China.
+I am currently based in Geneva, working with the United Nations Environment Programme. I took a gap year after graduation to do work in China- and climate-adjascent sectors. I worked at Sinolytics, a China-specialized consultancy firm based in Berlin, the ifo economic research institute in Munich as well as with the Sino-German Energy Partnership hosted by GIz China. 
 
-I plan to move to Geneva in September 2021, to commence a 6-month internship at the United Nations Environment Programme.
+I plan to commence my Master's studies in fall 2022.
 
