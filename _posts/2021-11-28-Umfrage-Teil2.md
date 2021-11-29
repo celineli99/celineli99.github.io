@@ -29,15 +29,13 @@ In diesem Bericht erläutere ich meine Motivation hinter dem Projekt, die Durchf
 
 ## Motivation des Umfrageprojektes
 
-Seit ca. den 1980er Jahren, also seit der Reform- und Öffnungspolitik Chinas unter Deng Xiaoping, hat es mehrere Einwanderungsbewegungen von Chines:innen nach Deutschland gegeben. Diese Chines:innen haben ihre Kindheit und Jugend in China verbracht und sind später zum Studium oder für Arbeit nach Deutschland gezogen. Manche von ihnen sind in Deutschland geblieben und haben teilweise auch die deutsche Staatsbürgerschaft angenommen.
-
-Ich selbst bin ein Kind von chinesischen Einwanderern nach Deutschland. Meine Eltern kamen in den 1980er Jahren als Student:innen nach Deutschland, haben später hier Arbeit gefunden, sich einen Freundeskreis aufgebaut und sich hier niedergelassen. 
+Seit ca. den 1980er Jahren, also seit der Reform- und Öffnungspolitik Chinas unter Deng Xiaoping, hat es mehrere Einwanderungsbewegungen von Chines:innen nach Deutschland gegeben. Diese Chines:innen haben ihre Kindheit und Jugend in China verbracht und sind später zum Studium oder für Arbeit nach Deutschland gezogen. Manche von ihnen sind in Deutschland geblieben und haben teilweise auch die deutsche Staatsbürgerschaft angenommen. Ich selbst bin ein Kind von chinesischen Einwanderern nach Deutschland. Meine Eltern kamen in den 1980er Jahren als Student:innen nach Deutschland, haben später hier Arbeit gefunden, sich einen Freundeskreis aufgebaut und sich hier niedergelassen. 
 
 Ich bin in Deutschland zur Schule gegangen, spreche Deutsch als Muttersprache (neben Mandarin) und identifiziere mich primär als Deutsche, auch wenn ich meine chinesischen kulturellen Wurzeln sehr schätze.
 
 Um meine persönliche Erfahrung zu komplementieren, wollte ich ein größeres Datenset sammeln, um repräsentativere Aussagen treffen zu können. Ich strebte also an, Daten über das politische Wahlverhalten von Menschen mit chinesischem Migrationshintergrund zu sammeln und auszuwerten. Wie unterschiedlich "ticken" wir? Im Vergleich zueinander, aber auch im Vergleich zur generellen deutschen Bevölkerung?
 
-Meines Wissens nach gibt es bisher keine Studie mit diesem Forschungsfokus. 
+Meines Wissens nach gibt es bisher keine Studie mit diesem konkreten Forschungsfokus. 
 
 
 ## Umfragedesign
@@ -59,7 +57,7 @@ Den vollständigen Fragebogen kann man [hier](https://oxforddpir.eu.qualtrics.co
 Der Zeitplan des Projektes sah wie folgt aus: 
 * März - Juni 2021: Erstellung des Fragebogens auf Deutsch und Chinesisch
 * Juli - August 2021: Testphase
-* Vom 20. September bis zum 03.Oktober 2021: Umfrage aktiv, Verbreitung über WeChat, WhatsApp und E-mail, Datensammlung
+* Vom 20. September bis zum 03. Oktober 2021: Umfrage aktiv, Verbreitung über WeChat, WhatsApp und E-mail, Datensammlung
 * Oktober - November 2021: Datenauswertung
 * Am 28.November 2021: Erste Vorstellung der Ergebnisse bei der Tagung der Gesellschaft Chinesischer Wirtschaftswissenschaftler in Deutschland (GCWD)
 
