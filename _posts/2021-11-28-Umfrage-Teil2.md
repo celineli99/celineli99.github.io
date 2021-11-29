@@ -37,12 +37,14 @@ Ich bin in Deutschland zur Schule gegangen, spreche Deutsch als Muttersprache (n
 
 Um meine persönliche Erfahrung zu komplementieren, wollte ich ein größeres Datenset sammeln, um repräsentativere Aussagen treffen zu können. Ich strebte also an, Daten über das politische Wahlverhalten von Menschen mit chinesischem Migrationshintergrund zu sammeln und auszuwerten. Wie unterschiedlich "ticken" wir? Im Vergleich zueinander, aber auch im Vergleich zur generellen deutschen Bevölkerung?
 
+Meines Wissens nach gibt es bisher keine Studie mit diesem Forschungsfokus. 
+
 
 ### Umfragedesign
 
 Um einen Vergleich zwischen der älteren und jüngeren Generation vornehmen zu können, unterschied ich in der Umfrage zwischen zwei Generationen.
 
-Die 1. Generation sind diejenigen Immigrant:innen, die in China geboren und aufgewachsen sind. Sie sind erst nach ihrer Kindheit nach Deutschland gekommen, z.B. für Studium oder Arbeit. Die 2. Generation sind diejenigen, die entweder in Deutschland geboren und aufgewachsen sind, oder zumindest den Großteil ihrer Kindheit und Jugend in Deutschland verbracht haben.
+Die 1. Generation sind diejenigen Immigrant:innen, die in China geboren und aufgewachsen sind. Sie sind erst nach ihrer Kindheit nach Deutschland gekommen, z.B. für Studium oder Arbeit. Die 2. Generation sind diejenigen, die entweder in Deutschland geboren und aufgewachsen sind, oder zumindest den Großteil ihrer Kindheit und Jugend in Deutschland verbracht haben. Welcher Generation die Befragten zugehören, wurde zu Beginn des Fragebogens ermittelt. 
 
 
 Die Bundestagswahl am 26. September 2021 bot einen guten Anlass, um Daten zu sammeln, da sich zu dieser Zeit die Menschen mehr Gedanken über aktuelle Themen und politische Werte machen. Außerdem bildet das Wahlergebnis ein echtes, statt ein hypothetisches Ergebnis ab (wie es immer bei der Sonntagsfrage erfragt wird).
@@ -67,7 +69,7 @@ Für die Umfrage habe ich die Software [Qualtrics](https://www.qualtrics.com/uk/
 
 Insgesamt gab es 268 Teilnehmende an der Umfrage, von denen ich 215 vollständige Fragebögen ausgewertet habe. Von den 215 vollständigen Fragebögen waren 193 von Personen der 1. Generation ausgefüllt, 22 von Personen der 2. Generation. Insbesondere bei der 2. Generation sind die Ergebnisse "mit Vorsicht zu genießen", da die Aussagen bei einer kleinen Stichprobengröße nicht repräsentativ sind.
 
-Im Folgenden sind die Ergebnisse für alle vollständig ausgefüllten Fragebögen dargestellt. bei ausgewählten Fragen werden die Unterschiede zweischen der 1. und 2. Generation gezeigt.
+Im Folgenden sind die Ergebnisse für alle vollständig ausgefüllten Fragebögen dargestellt. bei ausgewählten Fragen werden die Unterschiede zwischen der 1. und 2. Generation gezeigt.
 
 ## Demographie der Teilnehmenden
 
@@ -78,7 +80,7 @@ Zunächst zu den demographischen Eigenschaften der Umfrageteilnehmenden.
 Es gab ein ausgewogenes Geschlechterverhältnis von nahezu 50% zu 50%. 
 
 ![Jahrgang](../assets/img/2021/Slide12.PNG)
-Die meisten der Umfrageteilnehmenden sind geboren in den 1960ern, aber auch die Jahrgänge der 1950er, und 1970er bis 90er sind vertreten.
+Die meisten der Umfrageteilnehmenden sind geboren in den 1960ern, aber auch die Jahrgänge der 1950er, und 1970er bis 1990er sind vertreten.
 
 ![Herkunft](../assets/img/2021/Slide13.PNG)
 Die Teilnehmenden der 1. Generation kommen primär aus den zwei großen Städten Chinas, Beijing und Shanghai, wobei auch viele weitere Provinzen vertreten sind.
@@ -100,10 +102,10 @@ Die Studienfächer sind überwiegend Informatik und Ingenieurswissenschaften, ge
 ## Wahlverhalten
 
 ![Wahlbeteiligung](../assets/img/2021/Slide19.PNG)
-Mehr als die Hälfte der Umfrageteilnehmenden ist zur Bundestagswahl gegangen. Knapp ein Viertel der Befragten konnte nicht wählen (hätten es aber eventuell getan). Der Grund hierfür ist die mangelnde deutsche Staatsbürgerschaft.
+Mehr als die Hälfte der Umfrageteilnehmenden ist zur Bundestagswahl gegangen. Knapp ein Viertel der Befragten konnte nicht wählen (hätten es aber eventuell getan). Der Grund hierfür ist, dass ihnen die deutsche Staatsbürgerschaft fehlt.
 
 ![Partei](../assets/img/2021/Slide20.PNG)
-Die Befragten wählten zu ca. 38% CDU/CSU , knapp über 25% haben SPD gewählt. FDP liegt bei etwa 18% und Grüne bei knapp über 10%. 
+Die Befragten wählten zu ca. 38% CDU/CSU, knapp über 25% haben SPD gewählt. FDP liegt bei etwa 18% und Grüne bei knapp über 10%. 
 
 Wenn es nach den Befragten der Umfrage ginge, so würden AfD und die Linke nicht in den deutschen Bundestag einziehen.
 
@@ -135,7 +137,7 @@ Als das wichtigste Problem in Deutschland sehen die Befragten das Gebiet von Mig
 Auch bei der Frage des wichtigsten Problems in Deutschland gehen die Meinungen der Generationen auseinander. So finden Menschen der 2. Generation kaum, dass Ausländer und Migration ein Problem darstellt. Stattdessen sehen sie das Thema Umwelt, Klima und Energiewende als wichtigstes Problem in Deutschland.
 
 ![Demokratie](../assets/img/2021/Slide28.PNG)
-Mit einem Skalenwert von 8.1 lässt sich sagen, dass es denBefragten sehr wichtig ist, in einem Land zu leben, das demokratisch regiert wird. 
+Mit einem Skalenwert von 8.1 lässt sich sagen, dass es den Befragten sehr wichtig ist, in einem Land zu leben, das demokratisch regiert wird. 
 
 ![Demokratie Vergleich](../assets/img/2021/Slide29.PNG)
 Im Vergleich der beiden Generationen macht sich ein subtiler Unterschied bemerkbar: Personen der 2. Generation empfinden es im Durchschnitt für noch wichtiger, in einer Demokratie zu leben, als Personen der 1. Generation.
