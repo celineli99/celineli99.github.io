@@ -5,6 +5,22 @@ date: 2021-11-28
 categories: survey
 
 ---
+
+
+<!-- TOC -->
+
+- [Einführung](#einführung)
+  * [Motivation des Umfrageprojektes](#motivation-des-umfrageprojektes)
+    + [Umfragedesign](#umfragedesign)
+    + [Durchführung](#durchführung)
+- [Ergebnisse](#ergebnisse)
+  * [Demographie der Teilnehmenden](#demographie-der-teilnehmenden)
+  * [Wahlverhalten](#wahlverhalten)
+- [Fazit](#fazit)
+
+<!-- TOC -->
+
+
 # Einführung
 
 Im Frühjahr bis Herbst 2021 habe ich ein Umfrageprojekt durchgeführt. Bei diesem Projekt geht es um die Frage: Wie ist das politische Wahlverhalten von Menschen mit chinesischem Migrationshintergrund in Deutschland?
