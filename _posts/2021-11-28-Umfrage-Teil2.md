@@ -21,13 +21,13 @@ categories: survey
 <!-- TOC -->
 
 
-## Einführung
+# Einführung
 
 Von Frühjahr bis Herbst 2021 habe ich ein Umfrageprojekt durchgeführt. Bei diesem Projekt geht es um die Frage: Wie ist das politische Wahlverhalten von Menschen mit chinesischem Migrationshintergrund in Deutschland?
 
 In diesem Bericht erläutere ich meine Motivation hinter dem Projekt, die Durchführung der Umfrage und präsentiere die Ergebnisse. 
 
-### Motivation des Umfrageprojektes
+## Motivation des Umfrageprojektes
 
 Seit ca. den 1980er Jahren, also seit der Reform- und Öffnungspolitik Chinas unter Deng Xiaoping, hat es mehrere Einwanderungsbewegungen von Chines:innen nach Deutschland gegeben. Diese Chines:innen haben ihre Kindheit und Jugend in China verbracht und sind später zum Studium oder für Arbeit nach Deutschland gezogen. Manche von ihnen sind in Deutschland geblieben und haben teilweise auch die deutsche Staatsbürgerschaft angenommen.
 
@@ -40,7 +40,7 @@ Um meine persönliche Erfahrung zu komplementieren, wollte ich ein größeres Da
 Meines Wissens nach gibt es bisher keine Studie mit diesem Forschungsfokus. 
 
 
-### Umfragedesign
+## Umfragedesign
 
 Um einen Vergleich zwischen der älteren und jüngeren Generation vornehmen zu können, unterschied ich in der Umfrage zwischen zwei Generationen.
 
@@ -54,7 +54,7 @@ Die Fragen der Umfrage habe ich so ausgewählt, dass sie mit einem vergleichbare
 Den vollständigen Fragebogen kann man [hier](https://oxforddpir.eu.qualtrics.com/jfe/form/SV_3QtAO4IDE2FGhdI) nachlesen.
 
 
-### Durchführung
+## Durchführung
 
 Der Zeitplan des Projektes sah wie folgt aus: 
 * März - Juni 2021: Erstellung des Fragebogens auf Deutsch und Chinesisch
