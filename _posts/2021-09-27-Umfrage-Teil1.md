@@ -6,7 +6,7 @@ categories: survey
 
 ---
 
-Dies ist Teil 1 der Auswertung. Teil 2 befindet sich [hier](https://www.celineli.com/2021/Umfrage.html#einf%C3%BChrung).
+Dies ist Teil 1 der Auswertung. Teil 2 befindet sich [hier](http://www.celineli.com/2021/Umfrage-Teil2.html).
 
 Deutschland hat gewählt. Am 26. September 2021 waren alle Menschen mit deutscher Staatsbürgerschaft dazu aufgerufen, ihre Stimme für die Bundestagswahl abzugeben.
 
