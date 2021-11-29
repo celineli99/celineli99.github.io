@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Wie wählen Menschen mit chinesischem Migrationshintergrund in Deutschland?
+title: Wie wählen Menschen mit chinesischem Migrationshintergrund in Deutschland? Teil 1
 date: 2021-10-01 
 categories: survey
 
 ---
+
+Dies ist Teil 1 der Auswertung. Teil 2 befindet sich [hier]().
 
 Deutschland hat gewählt. Am 26. September 2021 waren alle Menschen mit deutscher Staatsbürgerschaft dazu aufgerufen, ihre Stimme für die Bundestagswahl abzugeben.
 
