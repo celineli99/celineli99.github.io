@@ -3,6 +3,9 @@ layout: post
 title: Wie wählen Menschen mit chinesischem Migrationshintergrund in Deutschland? Teil 2
 date: 2021-11-28
 categories: survey
+image:
+    path: /assets/img/2021/Umfrage_Bild.png
+
 
 ---
 
@@ -29,7 +32,9 @@ In diesem Bericht erläutere ich meine Motivation hinter dem Projekt, die Durchf
 
 ## Motivation des Umfrageprojektes
 
-Seit ca. den 1980er Jahren, also seit der Reform- und Öffnungspolitik Chinas unter Deng Xiaoping, hat es mehrere Einwanderungsbewegungen von Chines:innen nach Deutschland gegeben. Diese Chines:innen haben ihre Kindheit und Jugend in China verbracht und sind später zum Studium oder für Arbeit nach Deutschland gezogen. Manche von ihnen sind in Deutschland geblieben und haben teilweise auch die deutsche Staatsbürgerschaft angenommen. Ich selbst bin ein Kind von chinesischen Einwanderern nach Deutschland. Meine Eltern kamen in den 1980er Jahren als Student:innen nach Deutschland, haben später hier Arbeit gefunden, sich einen Freundeskreis aufgebaut und sich hier niedergelassen. 
+Seit ca. den 1980er Jahren, also seit der Reform- und Öffnungspolitik Chinas unter Deng Xiaoping, hat es mehrere Einwanderungsbewegungen von Chines:innen nach Deutschland gegeben. Diese Chines:innen haben ihre Kindheit und Jugend in China verbracht und sind später zum Studium oder für Arbeit nach Deutschland gezogen. Manche von ihnen sind in Deutschland geblieben und haben teilweise auch die deutsche Staatsbürgerschaft angenommen. 
+
+Ich selbst bin ein Kind von chinesischen Einwanderern nach Deutschland. Meine Eltern kamen in den 1980er Jahren als Student:innen nach Deutschland, haben später hier Arbeit gefunden, sich einen Freundeskreis aufgebaut und sich hier niedergelassen. 
 
 Ich bin in Deutschland zur Schule gegangen, spreche Deutsch als Muttersprache (neben Mandarin) und identifiziere mich primär als Deutsche, auch wenn ich meine chinesischen kulturellen Wurzeln sehr schätze.
 
@@ -67,7 +72,7 @@ Für die Umfrage habe ich die Software [Qualtrics](https://www.qualtrics.com/uk/
 
 Insgesamt gab es 268 Teilnehmende an der Umfrage, von denen ich 215 vollständige Fragebögen ausgewertet habe. Von den 215 vollständigen Fragebögen waren 193 von Personen der 1. Generation ausgefüllt, 22 von Personen der 2. Generation. Insbesondere bei der 2. Generation sind die Ergebnisse "mit Vorsicht zu genießen", da die Aussagen bei einer kleinen Stichprobengröße nicht repräsentativ sind.
 
-Im Folgenden sind die Ergebnisse für alle vollständig ausgefüllten Fragebögen dargestellt. bei ausgewählten Fragen werden die Unterschiede zwischen der 1. und 2. Generation gezeigt.
+Im Folgenden sind die Ergebnisse für alle vollständig ausgefüllten Fragebögen dargestellt. Bei ausgewählten Fragen werden die Unterschiede zwischen der 1. und 2. Generation gezeigt.
 
 ## Demographie der Teilnehmenden
 
@@ -86,7 +91,7 @@ Die Teilnehmenden der 1. Generation kommen primär aus den zwei großen Städten
 Bei der 2. Generation kommt die Hälfte aus Hessen. Dies ist der Tatsache geschuldet, dass diese Gruppe hauptsächlich aus meinem Freundeskreis besteht (der sich in und um Darmstadt befindet). 
 
 ![Wohnort](../assets/img/2021/Slide14.PNG)
-Fast 40% der Befragten wohnen jetzt in Hessen. Einige wohnen auch in Baden-Württemberg oder NRW. 
+Fast 40% der Befragten wohnen jetzt in Hessen. Viele wohnen auch in Baden-Württemberg oder NRW. 
 
 
 ![Studium](../assets/img/2021/Slide15.PNG)
