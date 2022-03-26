@@ -14,7 +14,6 @@ With a Chinese cultural background, I grew up in Germany and speak both German a
 
 ## Me Now
 
-I am currently based in Geneva, working with the United Nations Environment Programme. I took a gap year after graduation to do work in China- and climate-adjascent sectors. I worked at Sinolytics, a China-specialized consultancy firm based in Berlin, the ifo economic research institute in Munich as well as with the Sino-German Energy Partnership hosted by GIz China. 
+I am currently working as a consultant with the United Nations Environment Programme. After graduation, I took two years out of academia to do work in China- and climate-adjascent sectors. I worked at Sinolytics, a China-specialized consultancy firm based in Berlin, the ifo economic research institute in Munich as well as with the Sino-German Energy Partnership hosted by GIZ China. 
 
-I plan to commence my Master's studies in fall 2022.
-
+I am an incoming Master student at the Graduate Institute Geneva for a [Master in International Economics](https://www.graduateinstitute.ch/academic-departments/international-economics/our-master-programme).
