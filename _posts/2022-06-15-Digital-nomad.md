@@ -16,7 +16,7 @@ The [Stockholm+50 meeting](https://www.stockholm50.global/) took place under the
 
 Side event took place on the margins of the conference itself. There were 50 side events, spread across 2 days. Me and one other colleague constituted the ‘Side Events Team’ from the UNEP side and it was our responsibility to select, plan and coordinate those events.
 
-Both Zhenghong and myself have the luck that our work allowed us to be literally anywhere. Well, for me there was the constraint that I wanted to stay in the European Timezones (CET +/- 1 or 2 hours). My colleagues were sitting all over the world, one in NY, one in Nairobi, so it didn't really matter where I was. Also, we didn't really have an "office" into which I would have to go.
+Both Zhenghong and myself are lucky that our work allowed us to be literally anywhere. Well, for me there was the constraint that I wanted to stay in the European Timezones (CET +/- 1 or 2 hours). My colleagues were sitting all over the world, one in NY, one in Nairobi, so it didn't really matter where I was. Also, we didn't really have an "office" into which I would have to go.
 
 For the period of my contract, I decided to move out of Geneva, because a) it is very expensive to live there and b) I would come back in the fall anyway to commence my Master’s programme at the Graduate Institute. 
 
