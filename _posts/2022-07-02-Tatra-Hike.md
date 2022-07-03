@@ -137,7 +137,7 @@ Taking a last peak at the mountain from the other side:
 
 # Final Thoughts
 
-Despite the initial touristy-ness of the trail, I was able to quickly get away into "pure nature" and enjoy some solitude in the mountains. It is has been a very rewarding and enjoyable experience on all fronts: It was a good physical challenge, I met some nice people along the way and understood more of Polish and Slovak culture, and the hike let me through some incredible wonders of Mother Nature. Couldn't asked for a better trip!
+Despite the initial touristy-ness of the trail, I was able to quickly get away into "pure nature" and enjoy some solitude in the mountains. It is has been a very rewarding and enjoyable experience on all fronts: It was a good physical challenge, I met some nice people along the way and understood more of Polish and Slovak culture and the hike let me through some incredible wonders of Mother Nature. Couldn't have asked for a better trip!
 
 I got super lucky with the mountain hut reservations and the weather conditions, and I can recommend everyone who attempts this trail to do proper research before, make bookings and come with the necessary gear. 
 
