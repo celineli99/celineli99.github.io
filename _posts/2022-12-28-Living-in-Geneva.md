@@ -11,11 +11,11 @@ image:
 
 ## Introduction
 
-Taking two gap years between Bachelor’s and Master’s were a very good choice for me. I spent the two past years working in various internships, being a consultant at the UN, and traveling. Now, I am back in Geneva for two years to obtain my Master’s degree in Economics at the Graduate Institute in Geneva.
+Taking two gap years between Bachelor’s and Master’s were a very good choice for me. I spent the two past years working in various internships, [being a consultant at the UN](https://www.celineli.com/2022/UNEP.html), and traveling. Now, I am back in Geneva for two years to obtain my [Master’s degree in Economics](https://www.graduateinstitute.ch/academic-departments/international-economics/our-master-programme) at the Graduate Institute in Geneva.
 
 This was a very conscious choice. After working, I yearned to go back to academia. At the time I finished my degree in Oxford, I was somewhat tired of studying and wanted to explore the working world. With a degree as broad as PPE, I felt that it was important to explore and understand the different types of jobs I could do later. Now that I have done that, I am able to re-appreciate the academic life a lot more. 
 
-Not only did I learn a lot about working in different types of organizations, about me as an employee, my strengths and weaknesses, but I also got to live and work in many places: Berlin, Munich, Singapore and lately as a Digital Nomad in Europe. This meant that at some point, I had a very strong desire to have a routined life again, not to live “out of a backpack”, simply: to have a base. Of course, I have enjoyed the traveling, the mobility, but now I was also ready to feel rooted somewhere again.
+Not only did I learn a lot about working in different types of organizations, about me as an employee, my strengths and weaknesses, but I also got to live and work in many places: Berlin, Munich, [Singapore](https://www.celineli.com/2021/Impressions-of-Singapore.html) and lately as a [Digital Nomad in Europe](https://www.celineli.com/2022/Digital-nomad.html). This meant that at some point, I had a very strong desire to have a routined life again, not to live “out of a backpack”, simply: to have a base. Of course, I have enjoyed the traveling, the mobility, but now I was also ready to feel rooted somewhere again.
 
 Geneva has been a good choice. I knew the city already from having worked there during my internship at the UN. It was a natural choice to stay in a city I had already gotten to know and liked, so I applied to the Master’s programme of the renowned Graduate Institute Geneva.
 
