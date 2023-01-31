@@ -34,7 +34,7 @@ The significance of Lunar New Year, for those who celebrate it in Asia, can perh
 
 The Lunar New Year is celebrated across China, where it is also called Spring Festival, however each region in China has their own traditions. Broadly speaking, the Yangtze River divides China into the Northern (where my family comes from) and the Southern part.
 
-In Northern China, we usually eat home-made dumplings( 餃子) on New Year’s Eve. The whole family gets together and forms the dough, makes the filling, and shape small dumplings that are eaten with soy sauce and black vinegar. The dumplings represent little ancient silver ingots and symbolize wealth and good fortune. Sometimes you put a coin into one of the dumplings, and who gets that dumpling will be especially rich in the new year.
+In Northern China, a common tradition is to eat home-made dumplings( 餃子) on New Year’s Eve. The family gets together and forms the dough, makes the filling, and shapes small dumplings that are eaten with soy sauce and black vinegar. The dumplings represent little ancient silver ingots and symbolize wealth and good fortune. Sometimes you put a coin into one of the dumplings, and who gets that dumpling will be especially rich in the new year.
 
 In Southern China on the other hand, traditional food for New Year’s Eve includes hot pot and fish.  Why fish? The saying 年年有餘 means that there will be “lots of surplus” in the coming year and the Chinese word for surplus (餘) is a homophone to the word for fish (魚). The Chinese love these plays with words.
 
