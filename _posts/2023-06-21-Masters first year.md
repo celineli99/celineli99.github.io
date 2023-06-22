@@ -14,7 +14,7 @@ Overall, I am quite happy with where I am at. I have a conducive learning enviro
 
 As for academics, the  first year of the Master’s has been pretty much what I expected it to be: An intensive training in the fundamentals of economics. With two courses each on Microeconomics, Macroeconomics and Econometrics, we have now “earned” the badge of calling ourselves economists, using the tools and lenses that the discipline employs.
 
-Earlier this academic year I already wrote a post about Life in Geneva and my Study Life https://www.celineli.com/2022/Living-in-Geneva.html. I still stand by most of what I wrote back then. Yet in the last few months, I realized a few more points that I thought worth sharing.
+Earlier this academic year I already wrote a post about Life in Geneva and my Study Life [here](https://www.celineli.com/2022/Living-in-Geneva.html). I still stand by most of what I wrote back then. Yet in the last few months, I realized a few more points that I thought worth sharing.
 
 ### The Importance of Teamwork
 
@@ -42,11 +42,12 @@ Instead, I have tried to nurture a more well being-oriented mindset. Listening m
 I often realize what is really important when I think about the things that I actually _remember_ from an experience. From my first year, this includes:
 - Organizing two concerts: Christmas and Summer concert with over 100 students
 - Hiking Mountains like Rochers de Naye, Le Reculet, Le Saleve
-- Get-Together with the Econ Cohort
+- Picnics and Drinks with the Econ Cohort each time we finish exams
+- Going to a fantastic conference (the St. Gallen Symposium) as one of the winners of an essay competition
 ## Next Year
 
 They say that the first year in IHEID’s Master of Economics programme is the hardest part, and that it gets better from now on. They say this because the first year is taken up mostly by the core courses, while the second year will be more specialized and free, as students can choose their specializations and interests accordingly. The fourth semester will be dedicated wholly towards the Master’s thesis. 
 
 For me, I made the decision to pursue an exchange semester abroad, and I got lucky to obtain a place as an exchange student at Yale University in the U.S. I will spend my third semester there, taking courses and starting to work on my Master’s thesis, before coming back in January 2024 to Geneva and to start writing and working on the thesis. 
 
-I am excited for what lies ahead and at the same time sad to leave my life in Geneva behind (even though it is only for a few months). It’s treated me well.
+I am excited for what lies ahead and at the same time sad to leave my life in Geneva behind, at least for now.
