@@ -11,7 +11,7 @@ image:
 
 As part of my Master’s degree in International Economics at the Geneva Graduate Institute, I spent one exchange semester at Yale University in the fall term of 2023. Looking back at the richness, personal growth and learnings of the last few months, I feel deeply grateful and fulfilled for having had this opportunity. 
 
-What follows are some of my impressions of my 4-month long taste of an American Ivy.
+What follows are impressions of my 4-month long taste of an American Ivy.
 
 ![dep](../assets/img/2023/DSC00569.JPG)
 *The Yale Sterling Memorial Library*
@@ -19,9 +19,9 @@ What follows are some of my impressions of my 4-month long taste of an American 
 
 ## Motivation
 
-Why did I choose to do this exchange in the first place? I was quite happy to have stayed in Geneva for my [Master's in Economics](https://www.celineli.com/2023/Masters-first-year.html) after having worked for the UN for 9 months. I felt that I had reached at a point where I knew Geneva as a city quite well, had a great base of friends, but was also curious about another adventure. So, when in early 2023 the deadline for applying for an outgoing exchange rolled around, a part of me wanted to give it a try. 
+Why did I choose to do this exchange in the first place? I was quite happy to have stayed in Geneva for my [Master's in Economics](https://www.celineli.com/2023/Masters-first-year.html) after having come to the city for my [work at the UN](http://www.celineli.com/2022/UNEP.html). I felt that I had reached at a point where I knew Geneva quite well, had a great base of friends, but was also curious about another adventure. So, when in early 2023 the deadline for applying for an outgoing exchange rolled around, a part of me wanted to give it a try. 
 
-I asked myself: What is it that I seek from an exchange that I can otherwise not get at my school in Geneva? Whilst I appreciated the more policy-oriented teaching at the Geneva Graduate Institute - a reason I chose this school for - I missed at times more academic rigor in my courses as well as the students demanding it. I knew that in order to learn and grow more, I cannot be the person in the classroom asking the most questions. This is what attracted my about Yale (and its excellent reputation of course). Plus, I had never been to the United States and wanted to experience it for once, without actually having to commit to work there for longer. 
+I therefore asked myself: What is it that I seek from an exchange that I can otherwise not get at my school in Geneva? Whilst I appreciated the more policy-oriented teaching at the Geneva Graduate Institute - a reason I chose this school for - I missed at times more academic rigor in my courses as well as the students demanding it. I knew that in order to learn and grow more, I cannot be the person in the classroom asking the most questions. This is what attracted my about Yale (and its excellent reputation of course). Plus, I had never been to the United States and wanted to experience it for once, without actually having to commit to work there for longer. 
 
 So, I ended up applying to the exchange program and luckily secured the spot. What followed were arduous months of preparing the paperwork, applying for the visa, securing accommodation and then finally: boarding the flight to John F. Kennedy airport in New York City.
 
@@ -43,7 +43,7 @@ I came to Yale mainly because of the academics, and found that my expectations a
 
 I also had a clear goal in mind, namely that I wanted to develop the research question for my Master’s dissertation and the appropriate data to answer it. I knew that with the excellent faculty, peers and courses, I would be able to have productive exchanges that could propel me forward. So I wanted to seize those opportunities as much as possible. 
 
-Thus, a guiding theme throughout my exchange was how I needed to learn switching my mindset from a mere “*consumer* of research” (meaning: reading through textbooks, understanding concepts, reproducing them in an exam, solving problemsets) to a “producer of research” (critically evaluating research designs, identifying gaps in the literature, asking relevant questions, finding data to answer those questions…). It was through the exchanges in my courses and outside of them that I was able to slowly get an idea of what the life of a researcher looks like.
+Thus, a guiding theme throughout my exchange was how I needed to learn switching my mindset from a mere “*consumer* of research” (meaning: reading through textbooks, understanding concepts, reproducing them in an exam, solving problemsets) to a “producer of research” (critically evaluating research designs, identifying gaps in the literature, asking relevant questions, finding data to answer those questions…). It was through the exchanges in my courses and outside of them that I was able to slowly get an idea of what the life of a researcher looks like. 
 
 ![department](../assets/img/2023/DSC00556.JPG)
 *The Department of Economics on 28 Hillhouse Avenue*
@@ -51,13 +51,13 @@ Thus, a guiding theme throughout my exchange was how I needed to learn switching
 
 ### Courses
 
-As an exchange student, I had great liberties in choosing my courses. I simply needed to fulfil the requirement of 4 graduate-level courses (which equates to 30 credits at my home universities) and they have to be Economics-related enough so that they can count towards my degree. I wanted to complement my foundational courses from the first year (Microeconomics, Macroeconomics, Econometrics) with specialized field courses in my areas of interest, but also have a good mix between theory, practice, and interdisciplinary courses.
+As an exchange student, I had great liberties in choosing my courses. I simply needed to fulas a city qfil the requirement of 4 graduate-level courses (which equates to 30 credits at my home universities) and they have to be Economics-related enough so that they can count towards my degree. I wanted to complement my foundational courses from the first year (Microeconomics, Macroeconomics, Econometrics) with specialized field courses in my areas of interest, but also have a good mix between theory, practice, and interdisciplinary courses.
 
 After an initial “shopping period”, where I attended a number of different courses to choose the right ones for me, I settled for the following ones:
 
 **Urban and Environmental Economics:** A PhD-level field course, usually for 2nd and 3rd years that introduces a number of “urban economics” and “environmental economics” topics. Taught by two professors, each taking one half of the course. It was assessed through a 3-page referee report about a working paper, highlighting its strengths and weaknesses and a 10-15 page research proposal, which I made about my Master’s dissertation. This course taught me how to critically evaluate research designs, and the economic stories and narratives that underpin them. This is especially relevant for policy design. 
 
-**Applied Quantitative Research Design:** A methods course for causal inference in the social sciences, addressed to a broad audience from undergraduate students to PhD students who want to get more hands-on practice with the statistical computing software R. We had weekly problemsets to do which required coding in R and a final data project of 8-10 pages. Through this course, I learnt some helpful commands and workflow strategies for doing data analysis in R, got hands-on experience with coding up my own project, and also began to understand that data stuff always takes a lot longer than you think.
+**Applied Quantitative Research Design:** A methods course for causal inference in the social sciences, addressed to a broad audience from undergraduate students to PhD students who want to get more hands-on practice with the statistical computing software R. We had weekly problemsets assigned, which required coding in R and a final data project of 8-10 pages. Through this course, I learnt some helpful commands and workflow strategies for doing data analysis in R, got hands-on experience with coding up my own project, and also began to understand that data stuff always takes a lot longer than you think.
 
 **Seminar in Environmental and Natural Resource Economics:** A seminar which invited different guest speakers each week to talk about working-paper-stage research and offered opportunities to meet 1-to-1 with the speakers. It covered a broad range of topics: From the effect of air pollution on economic opportunity, natural capital, over to noise pollution’s impact on whales in the Pacific Ocean. The best thing about this course was the access to the speakers, as they usually traveled to New Haven for at least a day so we could sign up for office hours or lunches with them. I benefited from my personal exchanges with the speakers, who shared research-related or meta-advice about doing good research.
 
@@ -65,7 +65,7 @@ After an initial “shopping period”, where I attended a number of different c
 
 ### Research Community
 
-Being a large university with lots of resources, it is not surprising that Yale has a thriving research community. In the Economics department, each ***day*** alone there are multiple research talks taking place in pretty much all fields of Economics: Trade, Development, Macro, Micro(-Theory), Econometrics, Economic History, Finance... I regularly attended the lunch talks in the development economics and trade sequence where advanced PhD students presented their research, as well as the Leitner Political Economy series by the Political Sciences department. 
+Being a large university with lots of resources, it is not surprising that Yale has a thriving research community. In the Economics department, each *day* alone there are multiple research talks taking place in pretty much all fields of Economics: Trade, Development, Macro, Micro(-Theory), Econometrics, Economic History, Finance... I regularly attended the lunch talks in the development economics and trade sequence where advanced PhD students presented their research, as well as the Leitner Political Economy series by the Political Sciences department. 
 
 There was something very “American” and “Ivy” about the lunch talks: Given that we all have to eat, and we want to give more people the chance to get feedback on their research, why not combine the two. At first I found it a bit awkward that a PhD student would present their past year’s work to a smacking audience devouring into some sandwiches but I guess you got used to it. A whole new meaning of the “working lunch”. 
 
@@ -75,7 +75,7 @@ Aside from that, there were also research breakfasts, which were more informal o
 
 I myself have benefited a lot from being in this environment. My peer group were mostly PhD students who were more advanced in their research, and talking to them has taught me a great deal about finding my own interests, designing a good research question, doing preliminary data checks, how to set up a good coding workflow… These are essential research skills that weren’t really taught in my first year in Geneva because we were so focused on content.
 
-But this process wasn’t without hick-ups. I think that being a researcher takes a lot from you, because your scholarly self is deeply intertwined with, well, your****self****. And that means knowing and having clarity about, your personal interests. What am I interested in? What do I want to spend my time doing? - these questions were important to ask myself but also triggered a lot of existential questions, which I plan to exploring further. I also needed to overcome feelings of self-doubt, impostor syndrome and a fixed (instead of growth) mindset whenever I felt really down and without direction.
+But this process wasn’t without hick-ups. I think that being a researcher takes a lot from you, because your scholarly self is deeply intertwined with, well, your*self*. And that means knowing and having clarity about, your personal interests. What am I interested in? What do I want to spend my time doing? - these questions were important to ask myself but also triggered a lot of existential questions, which I plan to exploring further. I also needed to overcome feelings of self-doubt, impostor syndrome and a fixed (instead of growth) mindset whenever I felt really down and without direction.
 
 ## Social Life
 
@@ -132,7 +132,7 @@ Came here for Thanksgiving break and mainly spent it in libraries and universiti
 
 ### New York City
 
-Well, *the* iconic city does not merit any introduction. What surprised me the most about New York was how much of it was so familiar to me already from movies and series that play in New York. The traffic lights, signs, brownstone houses, fire escape stairs outside of the houses… It was surreal to see them in real life. I came here for a couple of daytrips from New Haven to go to the museums, watch Broadway plays and musicals and to have good ethnic food.
+*The* iconic city does not merit any introduction. What surprised me the most about New York was how much of it was so familiar to me already from movies and series that play in New York. The traffic lights, signs, brownstone houses, fire escape stairs outside of the houses… It was surreal to see them in real life. I came here for a couple of daytrips from New Haven to go to the museums, watch Broadway plays and musicals and to have good ethnic food.
 
 ![NYC](../assets/img/2023/DSC00540.JPG)
 
@@ -170,17 +170,17 @@ For now, I look forward to going back to Europe. I am excited about my fourth an
 
 ---
 
-Addendum: 
+PS: 
 
-Stuff I’ll miss:
+Stuff I’ll miss about Yale:
 
-- Free food at events
-- Vibrant research community, access to talks and experts
-- proximity to campus by walking or cycling
-- a liberating feel of identity, no one questions you further about your "real" origin
+- Free food at events, like all the time
+- Vibrant research community, access to research talks and office hour with fieldexperts
+- Proximity to Campus and the city centre by walking or cycling
+- A liberating feel of identity, no one questions you further about your "real" origin
 
 Stuff I won’t miss:
 
-- Paper cups and disposable cutlery even when you dine in in most cafés or some restaurants
 - Overpriced and slow trains
-- Supermarkets outside of the city that you need to take the bus to get to
+- Paper cups and disposable cutlery even when you dine in in most cafés or some restaurants
+- Supermarkets outside of the city that you need to take drive to, very expensive fresh produce
