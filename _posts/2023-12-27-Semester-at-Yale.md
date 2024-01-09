@@ -51,7 +51,7 @@ Thus, a guiding theme throughout my exchange was how I needed to learn switching
 
 ### Courses
 
-As an exchange student, I had great liberties in choosing my courses. I simply needed to fulas a city qfil the requirement of 4 graduate-level courses (which equates to 30 credits at my home universities) and they have to be Economics-related enough so that they can count towards my degree. I wanted to complement my foundational courses from the first year (Microeconomics, Macroeconomics, Econometrics) with specialized field courses in my areas of interest, but also have a good mix between theory, practice, and interdisciplinary courses.
+As an exchange student, I had great liberties in choosing my courses. I simply needed to fulfil the requirement of 4 graduate-level courses (which equates to 30 credits at my home universities) and they have to be Economics-related enough so that they can count towards my degree. I wanted to complement my foundational courses from the first year (Microeconomics, Macroeconomics, Econometrics) with specialized field courses in my areas of interest, but also have a good mix between theory, practice, and interdisciplinary courses.
 
 After an initial “shopping period”, where I attended a number of different courses to choose the right ones for me, I settled for the following ones:
 
